@@ -1,0 +1,25 @@
+[TUTPHOTO]text_flag_sillyLila: "Wow! We both look like we're having so much fun!"
+[TUTPHOTO]text_flag_sillyPC: "We really do. Hey, were you giving me bunny ears!"
+[TUTPHOTO]text_flag_sillyLila: "I knew you wouldn't notice ‘til it was too late, PenisChamp-baka."
+[TUTPHOTO]text_flag_sillyPC: "Ugh, now our kids will know I'm clueless."
+[TUTPHOTO]text_flag_sillyLila: "I think they would have figured it out anyway." 
+[TUTPHOTO]text_flag_silly[Lila realizes what she's said]
+[TUTPHOTO]text_flag_sillyLila: "Not that we're going to have kids, baka!" 
+[TUTPHOTO]text_flag_sillyYou laugh.
+[TUTPHOTO]text_flag_silly[Lila hits you]
+[TUTPHOTO]text_flag_sillyPC: "Ow! What was that for?"
+[TUTPHOTO]text_flag_sillyLila: "You know exactly what that was for. Now come on, let's do something else before I hit you again."
+[TUTPHOTO]text_flag_seriousLila: "Wow. We look so formal. Like grown ups."
+[TUTPHOTO]text_flag_seriousPC: "Well, I figured since we're gonna have these for the rest of our lives, we might as well look our best."
+[TUTPHOTO]text_flag_seriousLila: "Is your best really that scowl? You look like you're about to hurt someone, PenisChamp!"
+[TUTPHOTO]text_flag_seriousPC: "It's not that bad, is it?"
+[TUTPHOTO]text_flag_seriousLila: "No, no, of course not. Just... don't show that to your kids until they're old enough."
+[TUTPHOTO]text_flag_seriousPC: "Old enough?"
+[TUTPHOTO]text_flag_seriousLila: "Well, you wouldn't want them to find out their parent is a serial killer when they're a toddler, would you?"
+[TUTPHOTO]text_flag_seriousPC: "Okay, I get it. Let's move on."
+#
+goto
+prom_lila_tutorial_instructions.txt
+META_DATA
+Day:???
+Group:Tutorial

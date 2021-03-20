@@ -1,0 +1,11 @@
+#
+choicecreate
+Who's that girl you made me ask to prom?
+prom_lila_tutorial_shannon.txt
+flag_shannon
+Why didn't you have a date to prom?
+prom_lila_tutorial_slowDanceTalk.txt
+flag_tutProgress
+META_DATA
+Day:???
+Group:Tutorial

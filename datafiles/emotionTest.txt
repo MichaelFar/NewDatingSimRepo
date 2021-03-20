@@ -1,0 +1,12 @@
+Your God King:Hello again
+Your God King:You know who I am so let's just talk about our feelings
+Your God King:Or rather the character's feelings which is what we are going to start testing!
+Your God King:Finally right? Michael's been procastinating on this thing
+Your God King:Michael is still procastinating by writing this pointless preamble!
+Your God King:So let's get into it
+Your God King:3
+Your God King:2
+Your God King:1
+#
+goto
+emotionReel.txt

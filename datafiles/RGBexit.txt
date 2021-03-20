@@ -1,0 +1,9 @@
+Door King:Congratulations you've left the door dimension
+Door King:You'll be back though
+Door King:Everyone needs doors in their lives
+Door King:*maniacal laughter*
+#
+GAMERESTART
+META_DATA
+Day:???
+Group:Door Dimension

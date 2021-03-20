@@ -1,0 +1,7 @@
+Your God King:Congratulations!
+Your God King:You've built a snowman
+Your God King:Hopefully you couldn't immediately get here
+Your God King:Cause if you could I fucked up :)
+#
+goto
+godkingtest_one.txt

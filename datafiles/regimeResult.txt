@@ -1,0 +1,6 @@
+[REGIME]text_flag_GA_KEY_regime_KEYLila: “General Aviation (100-350 MPH): Most of the early planes were only able to fly at this speed level. Early engines were not as powerful as they are today. However, this regime is still used today by smaller planes. Examples of this regime are the small crop dusters used by farmers for their fields, two and four seater passenger planes, and seaplanes that can land on water.”
+[REGIME]text_flag_SS_KEY_regime_KEYLila: “Subsonic (350-750 MPH). This category contains most of the commercial jets that are used today to move passengers and cargo. The speed is just below the speed of sound. Engines today are lighter and more powerful and can travel quickly with large loads of people or goods.”
+[REGIME]text_flag_HS_KEY_regime_KEYLila: “Subsonic (350-750 MPH). This category contains most of the commercial jets that are used today to move passengers and cargo. The speed is just below the speed of sound. Engines today are lighter and more powerful and can travel quickly with large loads of people or goods.”
+#
+goto
+regimeInstructions.txt

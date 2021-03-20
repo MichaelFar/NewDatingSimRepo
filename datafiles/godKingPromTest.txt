@@ -1,0 +1,10 @@
+Your God King: Hello it is time to test prom!
+Your God King: It won't work first try
+Your God King: But that's a problem for soon to be you
+Your God King: Let's get started
+3
+2
+1
+#
+goto
+prom_lila_tutorial.txt

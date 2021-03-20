@@ -1,0 +1,10 @@
+BACKGROUND_FLAG[maze]Your God King:Hello, we are going to test several how several exhaustive flags work together
+Your God King: Your goal is to get out of the maze.
+Your God King:You'll need to find keys and doors to unlock your escape.
+Your God King: Let's begin!
+3
+2
+1
+#
+goto
+MazeInstructions.txt

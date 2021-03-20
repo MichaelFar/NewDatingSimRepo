@@ -1,0 +1,14 @@
+[You look around the room, examining each person. You recognize everyone, though most you’ve never really had a conversation with.]
+[Oscar and Quinn are both top students in your math class. They both seem like normal, bright boys, although Oscar can be a little bit eccentric at times.]
+[Treyvon and Noah are in your study hall. You often hear them talking about their favorite anime and video games. While they’re definitely nerds, they’re also both a lot more outgoing and likeable than your average weeb.]
+[Jane and Michael are in your English class. They talk pretty much the entire time, which is a bit much first thing in the morning. Still, they both seem kind, although you’re not quite sure what they’re actually like.]
+[Nolan and Braedin are in your engineering class. They’re both hard working and fun loving. Nolan is shy and a bit of a memer, while Braedin is quite adventurous and outgoing.] 
+[Bodie and Joe are in your biology class. They’re both the shy, quiet types. Bodie is mysterious, tall, and good looking, and Joe has one leg.]
+[Connor and Ethan are in history with you. They’re both smart, but both care about the class about as much as you do (not at all). You know they both like cars, but otherwise, they’re enigmas to you.]
+[Anshu and Gun SCP are in your Japanese class with you. Anshu is very smart and intuitive, while Gun SCP is a lone wolf who plays by his own rules.]
+#
+goto
+GroupChoiceInstructions.txt
+META_DATA
+Day:???
+Group:Introductions

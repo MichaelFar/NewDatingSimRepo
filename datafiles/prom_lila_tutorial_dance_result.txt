@@ -1,0 +1,26 @@
+[PERF]text_flag_goodDance_tutorialLila: "Wow! I never would have guessed someone like you would be such a good dancer."
+[PERF]text_flag_goodDance_tutorialPC: "What do you mean, someone like me?"
+[PERF]text_flag_goodDance_tutorialLila: "You know... a... Well, I've never seen you dance before, that's all."
+[PERF]text_flag_goodDance_tutorialPC: "Oh. Well, thanks. You're a pretty good dancer yourself."
+[PERF]text_flag_goodDance_tutorialLila: "Pervert! Were you watching me the whole time?" [said in a joking way]
+[PERF]text_flag_goodDance_tutorialPC: "You can never just take a compliment, can you?
+[PERF]text_flag_goodDance_tutorialLila: "Nope! What should we do next?"
+[PERF]text_flag_badDance_tutorialLila: "God, I've never been so embarrassed before."
+[PERF]text_flag_badDance_tutorialPC: "I never said I was a good dancer!"
+[PERF]text_flag_badDance_tutorialLila: "Yeah, but you also didn't warn me you'd be so bad!"
+[PERF]text_flag_badDance_tutorialPC: "Honestly, I didn't know I'd be that bad either. It's... it's been a while since I've danced."
+[PERF]text_flag_badDance_tutorialLila: "I'll say. You're so clumsy! Can you even walk without tripping?"
+[PERF]text_flag_badDance_tutorialPC: "Alright, I get it! I'm bad at dancing. Anything else?"
+[PERF]text_flag_badDance_tutorialLila: "Yes."
+[PERF]text_flag_badDance_tutorialLila: "Even though you were super awkward... I still had a nice time."
+[PERF]text_flag_badDance_tutorialPC: "Oh. Yeah. I--I did too."
+[PERF]text_flag_badDance_tutorialLila: "Jeez, don't get super emotional or anything."
+[PERF]text_flag_badDance_tutorialPC: "I--"
+[PERF]text_flag_badDance_tutorialLila: "Kidding!" 
+[PERF]text_flag_badDance_tutorialPC: "Okay, let's move on."
+#
+goto
+prom_lila_tutorial_instructions.txt
+META_DATA
+Day:???
+Group:Tutorial

@@ -1,0 +1,7 @@
+[prom-tutorial]
+[school-grounds]
+[player-bedroom]
+[cherry-trees]
+[front-door]
+[maze]
+[simple]

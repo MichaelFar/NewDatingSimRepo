@@ -1,0 +1,11 @@
+#
+exhaustchoice
+Go Left
+MazeLost.txt
+{maze}text_flag_left_[LOST]
+Go Right
+MazeLost.txt
+{maze}text_flag_right_[LOST]
+Turn Around
+MazeLost.txt
+{maze}target_text_flag_turn_around_[LOST]

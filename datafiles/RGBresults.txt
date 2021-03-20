@@ -1,0 +1,27 @@
+[RGB]flag_red_KEY_RGB_KEYYou go through the red door
+[RGB]flag_red_KEY_RGB_KEYHey there's a piece of a key on the ground!
+[RGB]flag_red_KEY_RGB_KEYThat was easy
+[RGB]flag_green_KEY_RGB_KEYYou go through the green door
+[RGB]flag_green_KEY_RGB_KEYYou see a sphinx sitting upon a giant stone slab
+[RGB]flag_green_KEY_RGB_KEYDoor King:ANSWER MY RIDDLE AND YOU WILL RECEIVE YOUR KEY PIECE!
+[RGB]flag_green_KEY_RGB_KEY...
+[RGB]flag_green_KEY_RGB_KEYPC: Wait are you the door king?
+[RGB]flag_green_KEY_RGB_KEYDoor King:...
+[RGB]flag_green_KEY_RGB_KEYPC:...
+[RGB]flag_green_KEY_RGB_KEYDoor King:Okay whatever just take the fucking key piece
+[RGB]flag_green_KEY_RGB_KEYPC:sick
+[RGB]flag_blue_KEY_RGB_KEYYou go through the blue door
+[RGB]flag_blue_KEY_RGB_KEYInside you see massive stairways twisting upwards and in seemingly random directions
+[RGB]flag_blue_KEY_RGB_KEYDoor King:I have hidden the key piece somewhere within The Shitty Stairwell of Infinite Possibilities
+[RGB]flag_blue_KEY_RGB_KEYDoor King:Find it
+[RGB]flag_blue_KEY_RGB_KEYPC:fuck
+[RGB]flag_blue_KEY_RGB_KEYYou search for hours or was it day? You've lost track of time
+[RGB]flag_blue_KEY_RGB_KEYThen you give up and head back to the blue door
+[RGB]flag_blue_KEY_RGB_KEY.............and you see the piece taped to the door
+[RGB]flag_blue_KEY_RGB_KEYPC:I fucking hate you
+#
+goto
+RGBinstructions.txt
+META_DATA
+Day:???
+Group:Door Dimension

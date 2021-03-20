@@ -1,0 +1,29 @@
+Lila: “Air is a physical substance which has weight. It has molecules which are constantly moving. Air pressure is created by the molecules moving around. Moving air has a force that will lift kites and balloons up and down. Air is a mixture of different gases; oxygen, carbon dioxide and nitrogen. All things that fly need air. Air has power to push and pull on the birds, balloons, kites and planes.”
+Lila: “In 1640, Evagelista Torricelli discovered that air has weight. When experimenting with measuring mercury, he discovered that air put pressure on the mercury.”
+Lila: “Francesco Lana used this discovery to begin to plan for an airship in the late 1600s. He drew an airship on paper that used the idea that air has weight. The ship was a hollow sphere which would have the air taken out of it. Once the air was removed, the sphere would have less weight and would be able to float up into the air. Each of four spheres would be attached to a boat-like structure and then the whole machine would float. The actual design was never tried.”
+Lila: “Hot air expands and spreads out and it becomes lighter than cool air. When a balloon is full of hot air it rises up because the hot air expands inside the balloon. When the hot air cools and is let out of the balloon the balloon comes back down.”
+Lila: “Airplane wings are shaped to make air move faster over the top of the wing. When air moves faster, the pressure of the air decreases. So the pressure on the top of the wing is less than the pressure on the bottom of the wing. The difference in pressure creates a force on the wing that lifts the wing up into the air.”
+PC: “Okay, but, like, how does a plane fly?”
+Lila: “I’m glad you asked!”
+Lila: “How does a plane fly? Let's pretend that our arms are wings. If we place one wing down and one wing up we can use the roll to change the direction of the plane. We are helping to turn the plane by yawing toward one side. If we raise our nose, like a pilot can raise the nose of the plane, we are raising the pitch of the plane.” 
+Lila: “All these dimensions together combine to control the flight of the plane. A pilot of a plane has special controls that can be used to fly the plane. There are levers and buttons that the pilot can push to change the yaw, pitch and roll of the plane.”
+Lila: “To roll the plane to the right or left, the ailerons are raised on one wing and lowered on the other. The wing with the lowered aileron rises while the wing with the raised aileron drops.”
+Lila: “Pitch makes a plane descend or climb. The pilot adjusts the elevators on the tail to make a plane descend or climb. Lowering the elevators caused the airplane's nose to drop, sending the plane into a down. Raising the elevators causes the airplane to climb.”
+Lila: “Yaw is the turning of a plane. When the rudder is turned to one side, the airplane moves left or right. The airplane's nose is pointed in the same direction as the direction of the rudder. The rudder and the ailerons are used together to make a turn.” 
+PC: “Okay, but how does a pilot control a plane?”
+Lila: “To control a plane a pilot uses several instruments... The pilot controls the engine power using the throttle. Pushing the throttle increases power, and pulling it decreases power.”
+Lila: “The ailerons raise and lower the wings. The pilot controls the roll of the plane by raising one aileron or the other with a control wheel. Turning the control wheel clockwise raises the right aileron and lowers the left aileron, which rolls the aircraft to the right.” 
+Lila: “The rudder works to control the yaw of the plane. The pilot moves rudder left and right, with left and right pedals. Pressing the right rudder pedal moves the rudder to the right. This yaws the aircraft to the right. Used together, the rudder and the ailerons are used to turn the plane.”
+Lila: “The elevators which are on the tail section are used to control the pitch of the plane. A pilot uses a control wheel to raise and lower the elevators, by moving it forward to backward. Lowering the elevators makes the plane nose go down and allows the plane to go down. By raising the elevators the pilot can make the plane go up.”
+Lila: “The pilot of the plane pushes the top of the rudder pedals to use the brakes. The brakes are used when the plane is on the ground to slow down the plane and get ready for stopping it. The top of the left rudder controls the left brake and the top of the right pedal controls the right brake.”
+Lila: “If you look at these motions together you can see that each type of motion helps control the direction and level of the plane when it is flying.”
+PC: “Okay, I think I get the picture, I--”
+Lila: “You want to know about the sound barrier? Great! I’m glad you’re so curious about this, PenisChamp!”
+Lila: “Sound is made up of molecules of air that move. They push together and gather together to form sound waves . Sound waves travel at the speed of about 750 mph at sea level. When a plane travels the speed of sound the air waves gather together and compress the air in front of the plane to keep it from moving forward. This compression causes a shockwave to form in front of the plane.”
+Lila: “In order to travel faster than the speed of sound the plane needs to be able to break through the shock wave. When the airplane moves through the waves, it makes the sound waves spread out and this creates a loud noise or sonic boom.” 
+Lila: “The sonic boom is caused by a sudden change in the air pressure. When the plane travels faster than sound it is traveling at supersonic speed. A plane traveling at the speed of sound is traveling at Mach 1 or about 760 MPH. Mach 2 is twice the speed of sound.”
+[NEXT]text_flag_defaultLila: “What kind of regime of flight do you want to learn about first?”
+[NEXT]text_flag_youdamnfoolLila: “What kind of regime of flight do you want to learn about next?”
+#
+goto
+regimeInstructions.txt

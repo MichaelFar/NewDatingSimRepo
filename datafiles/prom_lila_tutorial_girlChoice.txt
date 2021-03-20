@@ -1,0 +1,39 @@
+[GC]text_flag_yeahPC: "Yeah, I never really thought about it like that. 
+[GC]text_flag_yeahI mean, I thought it was just because she needed someone to go to prom with at first.
+[GC]text_flag_yeahBut she could have at least told me why I was doing what I was doing so that I didn't feel so..."
+[GC]text_flag_yeahGirl: "Embarrassed?"
+[GC]text_flag_yeahPC: "Exactly."
+[GC]text_flag_yeahGirl: "You seem really nice, PenisChamp. I'm sorry Lila put you through that. I wish you'd had my item. 
+[GC]text_flag_yeahGirl: I think we could have had a lot of fun at prom..."
+[GC]text_flag_yeahPC: "I--"
+[GC]text_flag_yeahGirl: "Anyways, I'd better get going. My date awaits."
+[GC]text_flag_yeahPC: "Yeah, mine does too." 
+[GC]text_flag_yeah[You grab punch and return to Lila]
+[GC]text_flag_yeahLila: "Jeez, what took you so long PenisChamp?"
+[GC]text_flag_yeahPC: "Why are you always so mean to me?"
+[GC]text_flag_yeahLila: "What?"
+[GC]text_flag_yeahPC: "Instead of being grateful I went to get you punch, you ask me why it took so long? I'm not your servant, Lila."
+[GC]text_flag_yeahLila: "I was just teasing, gosh. What's gotten into you PenisChamp?"
+[GC]text_flag_yeahPC: "I don't know. But maybe you shouldn't teez so much."
+[GC]text_flag_yeahLila: "Okay, jeez. Sorry."
+[GC]text_flag_yeahPC: "Let's do something else. 
+[GC]text_flag_noPC: "No she's not."
+[GC]text_flag_noGirl: [Anime grunt] "What?"
+[GC]text_flag_noPC: "I said, no she's not! Lila had to make me ask you--because otherwise I wouldn't have gone!"
+[GC]text_flag_noGirl: "But--but she could have at least told you what your goal was by asking me, instead of leading you on like that!"
+[GC]text_flag_noPC: "If she'd told me... 
+[GC]text_flag_noPC: I probably wouldn't have done it. Besides, it's very presumptuous of you to call Lila names. For all you knew, I--I would have wanted to be kept in the dark! 
+[GC]text_flag_noPC: To prove myself to Lila!"
+[GC]text_flag_noGirl: "Okay, sorry. I'm... gonna go back to dancing." 
+[GC]text_flag_no(She leaves her punch behind when she walks away.)
+[GC]text_flag_noLila: "PenisChamp! You stood up for me!"
+[GC]text_flag_noPC: "Lila! How long have you been standing there?"
+[GC]text_flag_noLila: "Long enough." 
+[GC]text_flag_no[She hugs you]
+[GC]text_flag_noLila: "Now come on. Let's go do something else."
+#
+goto
+prom_lila_tutorial_instructions.txt
+META_DATA
+Day:???
+Group:Tutorial

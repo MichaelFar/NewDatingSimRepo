@@ -1,0 +1,40 @@
+[HTH]text_flag_TYPC: "Thank you for sharing this side of you with me. It's not often I get to see you be so vulnerable. It takes a lot of courage, you know, to put yourself out there like that."
+[HTH]text_flag_TYLila: ...
+[HTH]text_flag_TYPC: "What? Did I say something wrong?"
+[HTH]text_flag_TYLila: ...
+[HTH]text_flag_TYPC: "Lila?"
+[HTH]text_flag_TY[Lila bursts out laughing, barely managing to get out:]
+[HTH]text_flag_TYLila: "You're...so...AWKWARD, PenisChamp! How did you mess up that badly?"
+[HTH]text_flag_TYPC: "How did I mess up?"
+[HTH]text_flag_TYLila: "Nevermind, PenisChamp. It's kind of charming, really, just how clueless you are."
+[HTH]text_flag_TYPC: "Uh... Thank you, I guess?"
+[HTH]text_flag_TYLila: "You're welcome, PenisChamp-kun."
+[HTH]text_flag_TYPC: "What should we do next?"
+[HTH]text_flag_feelSamePC: "I feel the same way, Lila."
+[HTH]text_flag_feelSameLila: "[Anime grunt] PenisChamp?"
+[HTH]text_flag_feelSamePC: "I'm glad we ended up going to prom together. 
+[HTH]text_flag_feelSamePC:I'm sorry things haven't been the same between us. 
+[HTH]text_flag_feelSamePC:I also felt that barrier that you mentioned. 
+[HTH]text_flag_feelSamePC:But I--I figured you wanted it that way. 
+[HTH]text_flag_feelSamePC:You've always been the more outgoing one between us, so I guess I assumed that you'd be the one to break through the awkwardness. 
+[HTH]text_flag_feelSamePC:And when that didn't happen, I--I guess I just gave up, and tried to move on"
+[HTH]text_flag_feelSameLila: "PenisChamp, I--I had no idea."
+[HTH]text_flag_feelSameLila:She sniffles, obviously holding back tears. 
+[HTH]text_flag_feelSameLila:"It makes sense why you'd think I'd be the one to initiate. 
+[HTH]text_flag_feelSameLila:I should have, you're right. 
+[HTH]text_flag_feelSameLila:I should have known you're just--
+[HTH]text_flag_feelSameLila:you're just a useless baka!" 
+[HTH]text_flag_feelSameLila:She breaks down now, suppressing sobs to not draw attention, turning her face towards the floor.
+[HTH]text_flag_feelSame[You pull her a little bit closer and pat her on the back, trying to comfort her.]
+[HTH]text_flag_feelSamePC: "It's okay, Lila. We'll be closer now. We'll keep in touch, even when we graduate and move away. We'll call, every week, okay? And when we see each other--
+[HTH]text_flag_feelSamePC:It'll be just like when we were kids." 
+[HTH]text_flag_feelSameShe sniffs, collecting herself. Her eyes are watery when she looks up at you.
+[HTH]text_flag_feelSameLila: "Promise?"
+[HTH]text_flag_feelSamePC: "I promise."
+[HTH]text_flag_feelSameLila: "Come on, let's do something else before the night is over."
+#
+goto
+prom_lila_tutorial_instructions.txt
+META_DATA
+Day:???
+Group:Tutorial

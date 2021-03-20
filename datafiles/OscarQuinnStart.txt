@@ -1,0 +1,11 @@
+[You walk up to the two boys in the midst of a lively conversation. One is wearing cargo shorts and a grey t-shirt; the other is decked head to toe in colorful orange memorabilia, with a matching backpack that says "I hate Mondays." Is that...?]
+Your God King: Alright that's enough story I'm tired of copy pasting.
+Your God King: Let's just restart this shit.
+Your God King: 3
+Your God King: 2
+Your God King: 1
+#
+GAMERESTART
+META_DATA
+Day:???
+Group:OscarAndQuinn

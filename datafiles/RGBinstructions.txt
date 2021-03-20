@@ -1,0 +1,17 @@
+#
+choicecreate
+Red Door?
+RGBredDoor.txt
+[RGB]flag_red
+Green Door?
+RGBresults.txt
+[RGB]flag_green_KEY_RGB_KEY
+Blue Door?
+RGBresults.txt
+[RGB]flag_blue_KEY_RGB_KEY
+Exit the door dimension!
+RGBexit.txt
+flag_exit_3LOCK_RGB_LOCK
+META_DATA
+Day:???
+Group:Door Dimension

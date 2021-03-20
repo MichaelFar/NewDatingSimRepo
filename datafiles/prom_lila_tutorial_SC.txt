@@ -1,0 +1,17 @@
+Lila: "Her? You're here with me and you wanna talk about her?"
+PC: "I'm just curious, that's all."
+Lila: "Curious to know if you'd be better off going to prom with her?"
+PC: "No, of course not. I'm just wondering how you two know each other."
+Lila: "Why do you think we know each other?"
+PC: "Well, you said earlier that people who have each other's items are friends, right?"
+Lila: "Good memory! I'm surprised, PenisChamp, I didn't think you remembered a thing I said."
+PC: "Why are you avoiding the question?"
+Lila: "I'm not, it's just--" Her face lights up. "Shannon! Her name is Shannon!"
+PC: "Wait--you weren't telling me anything about her because you couldn't remember her name?"
+Lila: "Come on, let's do something else."
+#
+goto
+prom_lila_tutorial_instructions.txt
+META_DATA
+Day:???
+Group:Tutorial

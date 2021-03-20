@@ -1,0 +1,14 @@
+You find yourself in a red room
+There's a chest in the center
+Open it?
+#
+choicecreate
+Yes
+RGBchestResults.txt
+[CHEST]flag_red_KEY_RGB_KEY
+No...
+RGBchestResults.txt
+[CHEST]flag_nokey
+META_DATA
+Day:???
+Group:Door Dimension

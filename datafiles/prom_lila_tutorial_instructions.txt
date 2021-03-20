@@ -1,0 +1,20 @@
+#
+exhaustchoice
+Fast Dance
+prom_lila_tutorial_fastdance.txt
+{LEAVE}flag_prom_fastdance
+Slow Dance
+prom_lila_tutorial_slowdance.txt
+{PUNCH}flag_prom_slowdance
+Photo booth
+prom_lila_tutorial_photobooth.txt
+{LEAVE}flag_prom_photobooth
+Take a break?
+prom_lila_tutorial_break.txt
+{PUNCH}target_flag_prom_break
+Leave Prom?
+prom_lila_tutorial_afterProm.txt
+{LEAVE}target_flag_ULTRA_NOCHOICE
+META_DATA
+Day:???
+Group:Tutorial

@@ -1,0 +1,17 @@
+{maze}text_flag_left_[LOST]You go down the left path and find yourself at a dead end
+{maze}text_flag_left_[LOST]Shit time to turn around
+{maze}text_flag_right_[LOST]You decide to go down the right path
+{maze}text_flag_right_[LOST]The path eventually hits a dead end
+{maze}text_flag_right_[LOST]"I guess I have to turn around" you think
+{maze}target_text_flag_turn_around_[LOST]You decide to give up and turn around
+{maze}target_text_flag_turn_around_[LOST]Only to find out that what you thought was the entrance behind you was gone
+{maze}target_text_flag_turn_around_[LOST]Instead you only see more paths in front of you
+{maze}target_text_flag_turn_around_[LOST]"What's going on here?"
+#
+choicecreate
+Go Back
+MazeInstructions.txt
+flag_noflag
+Actually I'll look around
+MazeLookAround.txt
+KEY(REDDOOR)flag_foundKey

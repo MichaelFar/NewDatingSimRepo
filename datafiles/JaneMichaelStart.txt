@@ -1,0 +1,22 @@
+[You walk up to Jane and Michael. Michael is talking while Jane writes something down, occasionally shaking or nodding her head. They wave to you to sit down when you're close, but they continue their conversation.]
+Michael: "But which ending is the real one?"
+Jane: "Forsooth, they are all real!"
+Michael: "Yeah, but, the problem with that is... it doesn't make any sense."
+Jane: "Therein lies the beauty of it. That the proverbial colloquy be unintelligible is my prerogative!" 
+Michael: "What? Why wouldn't you want it to be... to make sense?"
+Jane: "I have no further reason than it tickling me so."
+Michael: "You don't want it to be, I don't know, satisfying? Good? Interesting?"
+Jane: "Hark, herr Michael, for we have a caller, and thou must watcheth thy tongue!"
+Michael: "‘Herr?' Are you german now?"
+Jane: "Just shut up before you spoil something."
+[This is a little awkward... I didn't mean to interrupt them.]
+Your God King: Alright that's enough story I'm tired of copy pasting.
+Your God King: Let's just restart this shit.
+Your God King: 3
+Your God King: 2
+Your God King: 1
+#
+GAMERESTART
+META_DATA
+Day:???
+Group:JaneAndMichael

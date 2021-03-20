@@ -1,0 +1,12 @@
+Your God King: Did you do good?
+#
+choicecreate
+Of course!
+prom_lila_tutorial_dance_result.txt
+[PERF]text_flag_goodDance_tutorial
+No...
+prom_lila_tutorial_dance_result.txt
+[PERF]text_flag_badDance_tutorial
+META_DATA
+Day:???
+Group:Tutorial

@@ -1,0 +1,21 @@
+PC:  “No, I don’t think so.”
+Lila: “Finally! Let’s get to class then. I’ll see you after school today, okay?”
+PC: “Yeah, of course. Why’d you even remind me? We always walk home together.”
+Lila looks a little annoyed.
+Lila: “Well... well you’re such a big dummy, I just wanted to make sure you wouldn’t forget! Jeez, PenisChamp, I was just checking.”
+BACKGROUND_FLAG[prom-tutorial]Lila: "Wow, PenisChamp, can you believe it's already prom? It feels like just yesterday you were panicking because you didn't have a date."
+PC: "I wasn't panicking! Besides, you didn't have a date either."
+Lila: "Yeah, but--well, I could have gotten one. I didn't need to go with you. But if you didn't have me, well, you would have gone alone. Or you wouldn't have gone at all!"
+PC: "Well, I'm glad you wound up going with me." Lila blushes and smiles.
+PC: "Hey, I wonder who that girl I turned down ended up going with."
+Lila: "It looks like she went with Kyle!"
+PC: "Huh, interesting. So I guess he's more her type?"
+Lila: "Yeah, well, she's missing out." You look at her, shocked to hear her compliment you. "What?"
+PC: "Nothing, it's just--nevermind. What do you want to do first?"
+Lila: "Baka PenisChamp. Take the initiative for once!"
+#
+goto
+prom_lila_tutorial_instructions.txt
+META_DATA
+Day:???
+Group:Tutorial

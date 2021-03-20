@@ -1,0 +1,23 @@
+#
+CHOOSEGROUP
+Oscar and Quinn
+OscarQuinnStart.txt
+flag_OscarQuinn
+Treyvon and Noah
+godkingplaceholder.txt
+flag_TreyvonNoah
+Jane and Michael
+JaneMichaelStart.txt
+flag_JaneMichael
+Nolan and Braedin
+godkingplaceholder.txt
+flag_NolanBraedin
+Bodie and Joe
+godkingplaceholder.txt
+flag_BodieJoe
+Connor and Ethan
+godkingplaceholder.txt
+flag_ConnorEthan
+Anshu and Gun SCP
+godkingplaceholder.txt
+flag_AnshuGunSCP

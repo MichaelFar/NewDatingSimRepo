@@ -1,0 +1,26 @@
+PC: "Let's get some punch."
+Lila: "Okay."
+[You wait for a few seconds]
+Lila: "Well? Don't just stand there! GET ME SOME PUNCH!"
+PC: "Okay, okay, jeez." 
+[You walk over to get some punch. As you go to dip the ladle into the bowl, your arm bumps into someone.]
+Girl: "Sorry!"
+PC: "No, I'm the one who's sorry!"
+Girl: "It's okay. No harm no foul!" She smiles, then looks at you, startled. "Hey, you're the GENDER PLACEHOLDER who asked me to prom!"
+PC: "Oh, yeah. I'm sorry about that, my friend Lila made me do it."
+Girl: "She wanted you to go to prom with me that bad?"
+PC: "That's what I thought at first too, but it turns out she really wanted me to go to prom with her. 
+PC: Because she... needed an item from you or something? I'm still a little bit confused about the exact details."
+Girl: "Oh, I see. That's kind of a rude thing to do to you, isn't it? I mean, it must have been humiliating, getting rejected just to get an item from me? 
+Girl: That Lila's kind of a bitch."
+#
+choicecreate
+Yeah, I never really thought about it like that
+prom_lila_tutorial_girlChoice.txt
+[GC]text_flag_yeah
+No she's not
+prom_lila_tutorial_girlChoice.txt
+[GC]text_flag_no
+META_DATA
+Day:???
+Group:Tutorial

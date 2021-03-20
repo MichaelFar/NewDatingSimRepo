@@ -1,0 +1,34 @@
+Prom Lord:Alright you dumb kids
+Prom Lord:I have an announcement to make
+Prom Lord:Ahem, I was told to say
+Prom Lord:"fuck u get out of prom dipshit"
+Prom Lord:So uh leave?
+Lila: "Wow, PenisChamp, I had a lot of fun!"
+PC: "Yeah, so did I! I hope I didn't mess things up too badly."
+Lila: "Of course not PenisChamp. Besides, it wouldn't matter if you did! 
+Lila: We've known each other forever. We'll always be friends no matter what."
+PC: "That's good to hear."
+Lila: "But other people? Well, you could definitely mess things up with them. 
+Lila: Saying the wrong thing, taking a serious picture when they wanted a silly one--or the other way around, dancing wrong..."
+PC: "Dancing wrong? Do you mean being bad at dancing?"
+Lila: "Well, most people wouldn't want you to dance badly, but some wouldn't want you to dance too well, because they'd feel you were showing off, or because you'd make them feel self-conscious about their own dancing."
+PC: "Wow, it sounds like some people are really particular."
+Lila: "Everyone's particular, PenisChamp. 
+Lila: Not knowing how they're particular, what they like and don't like, could prevent you from getting a good ending with them!"
+PC: "I'm glad you're not like that, Lila."
+Lila: "You're right, I'm not! You'd get this ending no matter what you did."
+PC: "Is this the good ending?"
+Lila: "It's good enough. Endings always feel like they could be better somehow. 
+Lila: Any ideas on how we could make this one better?" 
+She grins slyly at you.
+#
+choicecreate
+Kiss her
+prom_tutorial_kiss.txt
+flag_kiss
+Grab her hand, then kiss her
+prom_tutorial_kiss.txt
+flag_kiss
+META_DATA
+Day:???
+Group:Tutorial

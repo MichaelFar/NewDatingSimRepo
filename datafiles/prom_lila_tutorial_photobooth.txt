@@ -1,0 +1,16 @@
+Lila: "I love photo booths! PenisChamp, do you want to do a silly photo, or a serious one?"
+PC: "Does it matter?"
+Lila: "PenisChamp-baka, of course it does! These pictures will be the way we remember this night for the rest of our lives. We'll probably show our kids these pictures!"
+PC: "You think we're going to have kids together?"
+Lila: "No, I--Ugh, baka, just choose!"
+#
+choicecreate
+Silly Photo
+prom_lila_tutorial_photoResult.txt
+[TUTPHOTO]text_flag_silly
+Serious Photo
+prom_lila_tutorial_photoResult.txt
+[TUTPHOTO]text_flag_serious
+META_DATA
+Day:???
+Group:Tutorial

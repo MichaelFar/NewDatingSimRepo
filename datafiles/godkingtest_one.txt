@@ -1,0 +1,11 @@
+???: Ahem
+Your God King: This is your god king speaking
+Your God King: I am going to conduct a series of tests in order to see if my prom event is working
+Your God King: It is a massive pain to click through the entire tutorial so here we are
+Your God King: Let's start a pseudo prom event, but instead of prom activities we need to gather parts of a snowman
+3
+2
+1
+#
+goto
+godkingtest_two.txt

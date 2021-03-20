@@ -1,0 +1,6 @@
+What's this?
+I've found a red key
+I wonder where it goes to
+#
+goto
+MazeInstructions.txt

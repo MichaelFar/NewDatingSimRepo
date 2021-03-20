@@ -1,0 +1,67 @@
+Lila: "What are you doing PenisChamp?" 
+PC: "I--I thought you wanted me to--"
+Lila: "No, PenisChamp, you moron. I meant we could go out for ice cream or something. Why would you think I wanted you to kiss me?"
+PC: "I--I'm sorry, I--"
+Lila: "You're sorry? You're sorry?! We've been friends our whole lives, PenisChamp, and you just decide to throw it away like that?"
+PC: "I--"
+Lila: "Why would you do something so stupid, PenisChamp. I mean, wake up! Look around you!"
+PC: "Lila, if you just let me--"
+Lila: "Stupid, stupid, stupid. Wake up PenisChamp!"
+PC: "Stop telling me to wake up!"
+Lila: "No. I mean, wake up, PenisChamp." 
+Her voice is blank this time when she says it. 
+Lila: "Wake up."
+???: "Wake up, PenisChamp!" You hear the distant voice as you slowly come back into consciousness.
+???: "Come on, honey! Get up! You're going to be late for school!"
+You rub your eyes, feeling relief in waking up back in your own bed.
+Mom: "PenisChamp, please! Lila's already here, you're going to make her late too!"  
+Mom sounds annoyed this time. You jolt out of bed and start getting ready as fast as you can. 
+PC: "Sorry mom! I'll be downstairs in a minute!"
+You hurry to the front door once you've gotten your affairs in order, following Lila outside to her car. You get in, feeling a little bit awkward.
+PC: "Sorry I'm so late. I must have slept past my alarm."
+Lila: "It be like that."
+She puts on some jazz country artist you don't recognize.
+PC: "Do we have to listen to this? You know I hate this genre."
+Lila: "Fine, we'll listen to something else."
+[You ride in silence for a while. Your eyes feel a little bit heavy; you think back to what might have disturbed your sleep, only now fully remembering the nature of your dreams. Your heart picks up its pace. You don't feel so tired anymore]
+PC: "So, Lila... Do you have a date to prom yet?" 
+Lila: "Yes! I'm so excited for it, too. My date is so hot."
+PC: "Oh, yeah, that's cool. I mean, that's nice."
+Lila:"Yeah. Who are you going with?"
+PC: "Oh, uh. I don't have a date yet."
+Lila: "I'm sure you'll find one."
+PC: "Yeah. Haha, I kind of figured... you know..."
+Lila: "Kind of figured what?"
+PC: "Well, if neither of us had dates, you know, I figured... we'd go together..."
+Lila: "Ahaha. Like I wasn't going to have a date." 
+PC: "I guess you're right."
+Lila: "Besides, PenisChamp, I'd feel weird going to prom with a friend, you know?"
+PC: "Yeah..."
+Lila: "You know, I have some friends who probably don't all have prom dates. I could introduce you to some of them at lunch today?"
+PC: "That would be cool. Are there any of them you think I'd get along with?"
+Lila: "No, they're all trash. Ahaha."
+PC: "I hate you."
+Lila: "I hate myself too..."
+PC: "Don't you dare ‘ahaha.'"
+Lila: ...
+PC: ...
+Lila: ...
+PC: "Good, I--"
+Lila: "Ahaha."
+[You get to school, grabbing your bag on the way out of the car, and head to English. The morning passes slowly, teachers droning on and on about books you haven't read, homework you haven't done, questions you don't care about. You're more distracted than usual, preoccupied with the thought of Lila's friends. 
+You reason you'll only really have time to get to know a couple of them, seeing as there's only a week before prom. This thought makes you even more nervous, the time passing even slower. Finally, the lunch bell rings, and you rush out of the classroom to meet Lila.]
+Lila: "Ready?"
+PC: "Ready as I'll ever be, I guess."
+[She leads you to a classroom with a sign on the door: "Chess Club Only"]
+PC: "I didn't know you were into chess."
+Lila: "Oh, we're not. It's just that's the only way we get this room to ourselves."
+[She opens the door, and you see 14 students around your age, each sitting in pairs at tables scattered around the room.]
+PC: [Whispering] "Jeez Lila, I didn't realize you had so many friends."
+Lila: [Ignoring you] "Hey guys! I wanted to introduce you to my friend, PenisChamp!"
+[They wave to you, some more enthusiastic than others.]
+#
+goto
+CharacterIntroductions.txt
+META_DATA
+Day:???
+Group:Introductions

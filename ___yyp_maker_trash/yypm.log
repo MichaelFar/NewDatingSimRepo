@@ -1,0 +1,1058 @@
+You are using YYP Maker v1.1.1, released in 23-12-2020
+
+
+
+[17-03-2021 17:20:22] Initialized GameMaker Project: DatingSim-for-v2.3-master.yyp
+[17-03-2021 17:20:22] Checking sprites
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sprites
+[17-03-2021 17:20:22] Checking sounds
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sounds
+[17-03-2021 17:20:22] Checking scripts
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts
+[17-03-2021 17:20:22] Checking rooms
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/rooms
+[17-03-2021 17:20:22] Checking options
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/options
+[17-03-2021 17:20:22] Checking objects
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/objects
+[17-03-2021 17:20:22] Checking notes
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/notes
+[17-03-2021 17:20:22] Checking fonts
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/fonts
+[17-03-2021 17:20:22] Checking DatingSimCurrentVersion.yyp
+[17-03-2021 17:20:22] Checking datafiles
+[17-03-2021 17:20:22] Reading Datafiles...
+[17-03-2021 17:20:22] Found datafile: screenShakeTest.txt
+[17-03-2021 17:20:22] Found datafile: RGBresults.txt
+[17-03-2021 17:20:22] Found datafile: RGBredDoor.txt
+[17-03-2021 17:20:22] Found datafile: RGBinstructions.txt
+[17-03-2021 17:20:22] Found datafile: RGBexit.txt
+[17-03-2021 17:20:22] Found datafile: RGBchestResults.txt
+[17-03-2021 17:20:22] Found datafile: RGB.txt
+[17-03-2021 17:20:22] Found datafile: regimeResult.txt
+[17-03-2021 17:20:22] Found datafile: regimeInstructions.txt
+[17-03-2021 17:20:22] Found datafile: regimeEnd.txt
+[17-03-2021 17:20:22] Found datafile: prom_tutorial_kiss.txt
+[17-03-2021 17:20:22] Found datafile: prom_lila_tutorial_slowDanceTalk.txt
+[17-03-2021 17:20:22] Found datafile: prom_lila_tutorial_slowdance.txt
+[17-03-2021 17:20:22] Found datafile: prom_lila_tutorial_shannon.txt
+[17-03-2021 17:20:22] Found datafile: prom_lila_tutorial_SC.txt
+[17-03-2021 17:20:22] Found datafile: prom_lila_tutorial_photoResult.txt
+[17-03-2021 17:20:22] Found datafile: prom_lila_tutorial_photobooth.txt
+[17-03-2021 17:20:22] Found datafile: prom_lila_tutorial_instructions.txt
+[17-03-2021 17:20:22] Found datafile: prom_lila_tutorial_heartToheart.txt
+[17-03-2021 17:20:22] Found datafile: prom_lila_tutorial_girlChoice.txt
+[17-03-2021 17:20:22] Found datafile: prom_lila_tutorial_fastdance.txt
+[17-03-2021 17:20:22] Found datafile: prom_lila_tutorial_dance_result.txt
+[17-03-2021 17:20:22] Found datafile: prom_lila_tutorial_danceResultInstructions.txt
+[17-03-2021 17:20:22] Found datafile: prom_lila_tutorial_break.txt
+[17-03-2021 17:20:22] Found datafile: prom_lila_tutorial_afterProm.txt
+[17-03-2021 17:20:22] Found datafile: prom_lila_tutorial.txt
+[17-03-2021 17:20:22] Found datafile: OscarQuinnStart.txt
+[17-03-2021 17:20:22] Found datafile: MazeWithKeys.txt
+[17-03-2021 17:20:22] Found datafile: MazeLost.txt
+[17-03-2021 17:20:22] Found datafile: MazeLookAround.txt
+[17-03-2021 17:20:22] Found datafile: MazeInstructions.txt
+[17-03-2021 17:20:22] Found datafile: ListOfBranches.txt
+[17-03-2021 17:20:22] Found datafile: ListOfBackgrounds.txt
+[17-03-2021 17:20:22] Found datafile: JaneMichaelStart.txt
+[17-03-2021 17:20:22] Found datafile: GroupChoiceInstructions.txt
+[17-03-2021 17:20:22] Found datafile: godkingtest_two.txt
+[17-03-2021 17:20:22] Found datafile: godkingtest_three.txt
+[17-03-2021 17:20:22] Found datafile: godkingtest_one.txt
+[17-03-2021 17:20:22] Found datafile: godKingPromTest.txt
+[17-03-2021 17:20:22] Found datafile: godkingplaceholder.txt
+[17-03-2021 17:20:22] Found datafile: FirstScene_two.txt
+[17-03-2021 17:20:22] Found datafile: FirstScene.txt
+[17-03-2021 17:20:22] Found datafile: emotionTest.txt
+[17-03-2021 17:20:22] Found datafile: emotionReel.txt
+[17-03-2021 17:20:22] Found datafile: charNames.txt
+[17-03-2021 17:20:22] Found datafile: CharacterIntroductions.txt
+[17-03-2021 17:20:22] Found datafile: aerodynamics_you_fool.txt
+[17-03-2021 17:20:22] Found datafile: aerodynamics_wiki.txt
+[17-03-2021 17:20:22] Checking counter.bat
+[17-03-2021 17:20:22] Checking textBoxFont
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/fonts/textBoxFont
+[17-03-2021 17:20:22] Checking fnt_prompt
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/fonts/fnt_prompt
+[17-03-2021 17:20:22] Checking fnt_namePlate
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/fonts/fnt_namePlate
+[17-03-2021 17:20:22] Checking fnt_main
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/fonts/fnt_main
+[17-03-2021 17:20:22] Checking fnt_dialogue
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/fonts/fnt_dialogue
+[17-03-2021 17:20:22] Checking fnt_debug
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/fonts/fnt_debug
+[17-03-2021 17:20:22] Checking fnt_debug.yy
+[17-03-2021 17:20:22] Parsing C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/fonts/fnt_debug/fnt_debug.yy
+[17-03-2021 17:20:22] Reading C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/fonts/fnt_debug/fnt_debug.yy
+[17-03-2021 17:20:22] Par: "folders/Fonts/FC_DialogueSystem" at dir: "C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/fonts/fnt_debug/fnt_debug.yy"
+[17-03-2021 17:20:22] Found Font: fnt_debug
+[17-03-2021 17:20:22] Checking fnt_debug.png
+[17-03-2021 17:20:22] Checking fnt_dialogue.yy
+[17-03-2021 17:20:22] Parsing C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/fonts/fnt_dialogue/fnt_dialogue.yy
+[17-03-2021 17:20:22] Reading C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/fonts/fnt_dialogue/fnt_dialogue.yy
+[17-03-2021 17:20:22] Par: "folders/Fonts/FC_DialogueSystem" at dir: "C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/fonts/fnt_dialogue/fnt_dialogue.yy"
+[17-03-2021 17:20:22] Found Font: fnt_dialogue
+[17-03-2021 17:20:22] Checking fnt_dialogue.png
+[17-03-2021 17:20:22] Checking fnt_main.yy
+[17-03-2021 17:20:22] Parsing C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/fonts/fnt_main/fnt_main.yy
+[17-03-2021 17:20:22] Reading C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/fonts/fnt_main/fnt_main.yy
+[17-03-2021 17:20:22] Par: "folders/Fonts" at dir: "C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/fonts/fnt_main/fnt_main.yy"
+[17-03-2021 17:20:22] Found Font: fnt_main
+[17-03-2021 17:20:22] Checking fnt_main.png
+[17-03-2021 17:20:22] Checking fnt_namePlate.yy
+[17-03-2021 17:20:22] Parsing C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/fonts/fnt_namePlate/fnt_namePlate.yy
+[17-03-2021 17:20:22] Reading C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/fonts/fnt_namePlate/fnt_namePlate.yy
+[17-03-2021 17:20:22] Par: "folders/Fonts" at dir: "C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/fonts/fnt_namePlate/fnt_namePlate.yy"
+[17-03-2021 17:20:22] Found Font: fnt_namePlate
+[17-03-2021 17:20:22] Checking fnt_namePlate.png
+[17-03-2021 17:20:22] Checking fnt_namePlate.old.yy
+[17-03-2021 17:20:22] Trash file: fnt_namePlate.old.yy, will be moved to ___yyp_maker_trash
+[17-03-2021 17:20:22] Checking fnt_namePlate.old.png
+[17-03-2021 17:20:22] Checking fnt_prompt.yy
+[17-03-2021 17:20:22] Parsing C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/fonts/fnt_prompt/fnt_prompt.yy
+[17-03-2021 17:20:22] Reading C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/fonts/fnt_prompt/fnt_prompt.yy
+[17-03-2021 17:20:22] Par: "folders/Fonts" at dir: "C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/fonts/fnt_prompt/fnt_prompt.yy"
+[17-03-2021 17:20:22] Found Font: fnt_prompt
+[17-03-2021 17:20:22] Checking fnt_prompt.png
+[17-03-2021 17:20:22] Checking textBoxFont.yy
+[17-03-2021 17:20:22] Parsing C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/fonts/textBoxFont/textBoxFont.yy
+[17-03-2021 17:20:22] Reading C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/fonts/textBoxFont/textBoxFont.yy
+[17-03-2021 17:20:22] Par: "folders/Fonts" at dir: "C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/fonts/textBoxFont/textBoxFont.yy"
+[17-03-2021 17:20:22] Found Font: textBoxFont
+[17-03-2021 17:20:22] Checking textBoxFont.png
+[17-03-2021 17:20:22] Checking textBoxFont.old.yy
+[17-03-2021 17:20:22] Trash file: textBoxFont.old.yy, will be moved to ___yyp_maker_trash
+[17-03-2021 17:20:22] Checking textBoxFont.old.png
+[17-03-2021 17:20:22] Checking godthisisapain
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/notes/godthisisapain
+[17-03-2021 17:20:22] Checking godthisisapain.yy
+[17-03-2021 17:20:22] Parsing C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/notes/godthisisapain/godthisisapain.yy
+[17-03-2021 17:20:22] Reading C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/notes/godthisisapain/godthisisapain.yy
+[17-03-2021 17:20:22] Par: "folders/Sprites/Characters/Lila/body" at dir: "C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/notes/godthisisapain/godthisisapain.yy"
+[17-03-2021 17:20:22] Found Note: godthisisapain
+[17-03-2021 17:20:22] Checking godthisisapain.txt
+[17-03-2021 17:20:22] Checking oTextBox
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/objects/oTextBox
+[17-03-2021 17:20:22] Checking oTestRoomManager
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/objects/oTestRoomManager
+[17-03-2021 17:20:22] Checking oShaker
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/objects/oShaker
+[17-03-2021 17:20:22] Checking oSetName
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/objects/oSetName
+[17-03-2021 17:20:22] Checking oNamePlate
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/objects/oNamePlate
+[17-03-2021 17:20:22] Checking oMasterBarker
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/objects/oMasterBarker
+[17-03-2021 17:20:22] Checking oMainMenuManager
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/objects/oMainMenuManager
+[17-03-2021 17:20:22] Checking oMainGameManager
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/objects/oMainGameManager
+[17-03-2021 17:20:22] Checking oLogBox
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/objects/oLogBox
+[17-03-2021 17:20:22] Checking oList
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/objects/oList
+[17-03-2021 17:20:22] Checking oDarkBackground
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/objects/oDarkBackground
+[17-03-2021 17:20:22] Checking oChoice
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/objects/oChoice
+[17-03-2021 17:20:22] Checking oCharSpriteBody
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/objects/oCharSpriteBody
+[17-03-2021 17:20:22] Checking oCharFace
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/objects/oCharFace
+[17-03-2021 17:20:22] Checking oCharBody
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/objects/oCharBody
+[17-03-2021 17:20:22] Checking oButton
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/objects/oButton
+[17-03-2021 17:20:22] Checking Step_0.gml
+[17-03-2021 17:20:22] Checking oButton.yy
+[17-03-2021 17:20:22] Parsing C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/objects/oButton/oButton.yy
+[17-03-2021 17:20:22] Reading C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/objects/oButton/oButton.yy
+[17-03-2021 17:20:22] Par: "folders/Objects/MAINMENU/GUI" at dir: "C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/objects/oButton/oButton.yy"
+[17-03-2021 17:20:22] Found Object: oButton
+[17-03-2021 17:20:22] Checking Draw_64.gml
+[17-03-2021 17:20:22] Checking Create_0.gml
+[17-03-2021 17:20:22] Checking Step_0.gml
+[17-03-2021 17:20:22] Checking Other_10.gml
+[17-03-2021 17:20:22] Checking oCharBody.yy
+[17-03-2021 17:20:22] Parsing C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/objects/oCharBody/oCharBody.yy
+[17-03-2021 17:20:22] Reading C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/objects/oCharBody/oCharBody.yy
+[17-03-2021 17:20:22] Par: "folders/Objects/MAINGAME" at dir: "C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/objects/oCharBody/oCharBody.yy"
+[17-03-2021 17:20:22] Found Object: oCharBody
+[17-03-2021 17:20:22] Checking Draw_0.gml
+[17-03-2021 17:20:22] Checking Create_0.gml
+[17-03-2021 17:20:22] Checking oCharFace.yy
+[17-03-2021 17:20:22] Parsing C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/objects/oCharFace/oCharFace.yy
+[17-03-2021 17:20:22] Reading C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/objects/oCharFace/oCharFace.yy
+[17-03-2021 17:20:22] Par: "folders/Objects/MAINGAME" at dir: "C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/objects/oCharFace/oCharFace.yy"
+[17-03-2021 17:20:22] Found Object: oCharFace
+[17-03-2021 17:20:22] Checking Draw_0.gml
+[17-03-2021 17:20:22] Checking Create_0.gml
+[17-03-2021 17:20:22] Checking oCharSpriteBody.yy
+[17-03-2021 17:20:22] Parsing C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/objects/oCharSpriteBody/oCharSpriteBody.yy
+[17-03-2021 17:20:22] Reading C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/objects/oCharSpriteBody/oCharSpriteBody.yy
+[17-03-2021 17:20:22] Par: "folders/Objects/MAINGAME" at dir: "C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/objects/oCharSpriteBody/oCharSpriteBody.yy"
+[17-03-2021 17:20:22] Found Object: oCharSpriteBody
+[17-03-2021 17:20:22] Checking Create_0.gml
+[17-03-2021 17:20:22] Checking Step_0.gml
+[17-03-2021 17:20:22] Checking oChoice.yy
+[17-03-2021 17:20:22] Parsing C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/objects/oChoice/oChoice.yy
+[17-03-2021 17:20:22] Reading C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/objects/oChoice/oChoice.yy
+[17-03-2021 17:20:22] Par: "folders/Objects/MAINGAME" at dir: "C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/objects/oChoice/oChoice.yy"
+[17-03-2021 17:20:22] Found Object: oChoice
+[17-03-2021 17:20:22] Checking Draw_64.gml
+[17-03-2021 17:20:22] Checking Create_0.gml
+[17-03-2021 17:20:22] Checking oDarkBackground.yy
+[17-03-2021 17:20:22] Parsing C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/objects/oDarkBackground/oDarkBackground.yy
+[17-03-2021 17:20:22] Reading C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/objects/oDarkBackground/oDarkBackground.yy
+[17-03-2021 17:20:22] Par: "folders/Objects/MAINGAME" at dir: "C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/objects/oDarkBackground/oDarkBackground.yy"
+[17-03-2021 17:20:22] Found Object: oDarkBackground
+[17-03-2021 17:20:22] Checking Draw_64.gml
+[17-03-2021 17:20:22] Checking Step_0.gml
+[17-03-2021 17:20:22] Checking Other_10.gml
+[17-03-2021 17:20:22] Checking oList.yy
+[17-03-2021 17:20:22] Parsing C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/objects/oList/oList.yy
+[17-03-2021 17:20:22] Reading C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/objects/oList/oList.yy
+[17-03-2021 17:20:22] Par: "folders/Objects/MAINMENU/GUI" at dir: "C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/objects/oList/oList.yy"
+[17-03-2021 17:20:22] Found Object: oList
+[17-03-2021 17:20:22] Checking Draw_64.gml
+[17-03-2021 17:20:22] Checking Create_0.gml
+[17-03-2021 17:20:22] Checking CleanUp_0.gml
+[17-03-2021 17:20:22] Checking Step_0.gml
+[17-03-2021 17:20:22] Checking oTextBox.yy
+[17-03-2021 17:20:22] Trash file: oTextBox.yy, will be moved to ___yyp_maker_trash
+[17-03-2021 17:20:22] Checking oLogBox.yy
+[17-03-2021 17:20:22] Parsing C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/objects/oLogBox/oLogBox.yy
+[17-03-2021 17:20:22] Reading C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/objects/oLogBox/oLogBox.yy
+[17-03-2021 17:20:22] Par: "folders/Objects/MAINGAME" at dir: "C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/objects/oLogBox/oLogBox.yy"
+[17-03-2021 17:20:22] Found Object: oLogBox
+[17-03-2021 17:20:22] Checking KeyRelease_27.gml
+[17-03-2021 17:20:22] Checking Draw_64.gml
+[17-03-2021 17:20:22] Checking Draw_0.gml
+[17-03-2021 17:20:22] Checking Create_0.gml
+[17-03-2021 17:20:22] Checking Step_0.gml
+[17-03-2021 17:20:22] Checking Other_10.gml
+[17-03-2021 17:20:22] Checking oMainGameManager.yy
+[17-03-2021 17:20:22] Parsing C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/objects/oMainGameManager/oMainGameManager.yy
+[17-03-2021 17:20:22] Reading C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/objects/oMainGameManager/oMainGameManager.yy
+[17-03-2021 17:20:22] Par: "folders/Objects" at dir: "C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/objects/oMainGameManager/oMainGameManager.yy"
+[17-03-2021 17:20:22] Found Object: oMainGameManager
+[17-03-2021 17:20:22] Checking Create_0.gml
+[17-03-2021 17:20:22] Checking Step_0.gml
+[17-03-2021 17:20:22] Checking Other_12.gml
+[17-03-2021 17:20:22] Checking Other_11.gml
+[17-03-2021 17:20:22] Checking Other_10.gml
+[17-03-2021 17:20:22] Checking oMainMenuManager.yy
+[17-03-2021 17:20:22] Parsing C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/objects/oMainMenuManager/oMainMenuManager.yy
+[17-03-2021 17:20:22] Reading C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/objects/oMainMenuManager/oMainMenuManager.yy
+[17-03-2021 17:20:22] Par: "folders/Objects" at dir: "C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/objects/oMainMenuManager/oMainMenuManager.yy"
+[17-03-2021 17:20:22] Found Object: oMainMenuManager
+[17-03-2021 17:20:22] Checking Create_0.gml
+[17-03-2021 17:20:22] Checking Other_10.gml
+[17-03-2021 17:20:22] Checking oMasterBarker.yy
+[17-03-2021 17:20:22] Parsing C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/objects/oMasterBarker/oMasterBarker.yy
+[17-03-2021 17:20:22] Reading C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/objects/oMasterBarker/oMasterBarker.yy
+[17-03-2021 17:20:22] Par: "folders/Objects/MAINGAME" at dir: "C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/objects/oMasterBarker/oMasterBarker.yy"
+[17-03-2021 17:20:22] Found Object: oMasterBarker
+[17-03-2021 17:20:22] Checking Destroy_0.gml
+[17-03-2021 17:20:22] Checking Create_0.gml
+[17-03-2021 17:20:22] Checking Alarm_0.gml
+[17-03-2021 17:20:22] Checking Step_0.gml
+[17-03-2021 17:20:22] Checking oNamePlate.yy
+[17-03-2021 17:20:22] Parsing C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/objects/oNamePlate/oNamePlate.yy
+[17-03-2021 17:20:22] Reading C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/objects/oNamePlate/oNamePlate.yy
+[17-03-2021 17:20:22] Par: "folders/Objects/MAINGAME" at dir: "C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/objects/oNamePlate/oNamePlate.yy"
+[17-03-2021 17:20:22] Found Object: oNamePlate
+[17-03-2021 17:20:22] Checking Draw_64.gml
+[17-03-2021 17:20:22] Checking Create_0.gml
+[17-03-2021 17:20:22] Checking Step_0.gml
+[17-03-2021 17:20:22] Checking oSetName.yy
+[17-03-2021 17:20:22] Parsing C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/objects/oSetName/oSetName.yy
+[17-03-2021 17:20:22] Reading C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/objects/oSetName/oSetName.yy
+[17-03-2021 17:20:22] Par: "folders/Objects/MAINGAME" at dir: "C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/objects/oSetName/oSetName.yy"
+[17-03-2021 17:20:22] Found Object: oSetName
+[17-03-2021 17:20:22] Checking KeyPress_1.gml
+[17-03-2021 17:20:22] Checking Draw_64.gml
+[17-03-2021 17:20:22] Checking Create_0.gml
+[17-03-2021 17:20:22] Checking Alarm_0.gml
+[17-03-2021 17:20:22] Checking Step_0.gml
+[17-03-2021 17:20:22] Checking oShaker.yy
+[17-03-2021 17:20:22] Parsing C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/objects/oShaker/oShaker.yy
+[17-03-2021 17:20:22] Reading C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/objects/oShaker/oShaker.yy
+[17-03-2021 17:20:22] Par: "folders/Objects/MAINGAME" at dir: "C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/objects/oShaker/oShaker.yy"
+[17-03-2021 17:20:22] Found Object: oShaker
+[17-03-2021 17:20:22] Checking Destroy_0.gml
+[17-03-2021 17:20:22] Checking Create_0.gml
+[17-03-2021 17:20:22] Checking Alarm_0.gml
+[17-03-2021 17:20:22] Checking Step_0.gml
+[17-03-2021 17:20:22] Checking oTestRoomManager.yy
+[17-03-2021 17:20:22] Parsing C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/objects/oTestRoomManager/oTestRoomManager.yy
+[17-03-2021 17:20:22] Reading C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/objects/oTestRoomManager/oTestRoomManager.yy
+[17-03-2021 17:20:22] Par: "folders/Objects" at dir: "C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/objects/oTestRoomManager/oTestRoomManager.yy"
+[17-03-2021 17:20:22] Found Object: oTestRoomManager
+[17-03-2021 17:20:22] Checking Create_0.gml
+[17-03-2021 17:20:22] Checking Step_0.gml
+[17-03-2021 17:20:22] Checking oTextBox.yy
+[17-03-2021 17:20:22] Parsing C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/objects/oTextBox/oTextBox.yy
+[17-03-2021 17:20:22] Reading C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/objects/oTextBox/oTextBox.yy
+[17-03-2021 17:20:22] Par: "folders/Objects/MAINGAME" at dir: "C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/objects/oTextBox/oTextBox.yy"
+[17-03-2021 17:20:22] Found Object: oTextBox
+[17-03-2021 17:20:22] Checking Draw_64.gml
+[17-03-2021 17:20:22] Checking Draw_0.gml
+[17-03-2021 17:20:22] Checking Create_0.gml
+[17-03-2021 17:20:22] Checking windows
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/options/windows
+[17-03-2021 17:20:22] Checking main
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/options/main
+[17-03-2021 17:20:22] Checking mac
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/options/mac
+[17-03-2021 17:20:22] Checking linux
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/options/linux
+[17-03-2021 17:20:22] Checking options_linux.yy
+[17-03-2021 17:20:22] Parsing C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/options/linux/options_linux.yy
+[17-03-2021 17:20:22] Reading C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/options/linux/options_linux.yy
+[17-03-2021 17:20:22] Checking options_mac.yy
+[17-03-2021 17:20:22] Parsing C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/options/mac/options_mac.yy
+[17-03-2021 17:20:22] Reading C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/options/mac/options_mac.yy
+[17-03-2021 17:20:22] Checking options_main.yy
+[17-03-2021 17:20:22] Parsing C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/options/main/options_main.yy
+[17-03-2021 17:20:22] Reading C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/options/main/options_main.yy
+[17-03-2021 17:20:22] Checking inherited
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/options/main/inherited
+[17-03-2021 17:20:22] Checking options_main.inherited.yy
+[17-03-2021 17:20:22] Parsing C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/options/main/inherited/options_main.inherited.yy
+[17-03-2021 17:20:22] Invalid .yy file: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/options/main/inherited/options_main.inherited.yy
+[17-03-2021 17:20:22] Reading C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/options/main/inherited/options_main.inherited.yy
+[17-03-2021 17:20:22] Invalid file: options_main.inherited.yy, will be moved to ___yyp_maker_trash
+[17-03-2021 17:20:22] Checking options_windows.yy
+[17-03-2021 17:20:22] Parsing C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/options/windows/options_windows.yy
+[17-03-2021 17:20:22] Reading C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/options/windows/options_windows.yy
+[17-03-2021 17:20:22] Checking icons
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/options/windows/icons
+[17-03-2021 17:20:22] Checking icon.ico
+[17-03-2021 17:20:22] Checking RMtestRoom
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/rooms/RMtestRoom
+[17-03-2021 17:20:22] Checking RMmainMenu
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/rooms/RMmainMenu
+[17-03-2021 17:20:22] Checking RMmainGame
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/rooms/RMmainGame
+[17-03-2021 17:20:22] Checking RMmainGame.yy
+[17-03-2021 17:20:22] Parsing C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/rooms/RMmainGame/RMmainGame.yy
+[17-03-2021 17:20:22] Reading C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/rooms/RMmainGame/RMmainGame.yy
+[17-03-2021 17:20:22] Par: "folders/Rooms" at dir: "C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/rooms/RMmainGame/RMmainGame.yy"
+[17-03-2021 17:20:22] Found Room: RMmainGame
+[17-03-2021 17:20:22] Checking RMmainMenu.yy
+[17-03-2021 17:20:22] Parsing C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/rooms/RMmainMenu/RMmainMenu.yy
+[17-03-2021 17:20:22] Reading C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/rooms/RMmainMenu/RMmainMenu.yy
+[17-03-2021 17:20:22] Par: "folders/Rooms" at dir: "C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/rooms/RMmainMenu/RMmainMenu.yy"
+[17-03-2021 17:20:22] Found Room: RMmainMenu
+[17-03-2021 17:20:22] Checking RMtestRoom.yy
+[17-03-2021 17:20:22] Parsing C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/rooms/RMtestRoom/RMtestRoom.yy
+[17-03-2021 17:20:22] Reading C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/rooms/RMtestRoom/RMtestRoom.yy
+[17-03-2021 17:20:22] Par: "folders/Rooms" at dir: "C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/rooms/RMtestRoom/RMtestRoom.yy"
+[17-03-2021 17:20:22] Found Room: RMtestRoom
+[17-03-2021 17:20:22] Checking yes_no_struct
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/yes_no_struct
+[17-03-2021 17:20:22] Checking text_log
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/text_log
+[17-03-2021 17:20:22] Checking save_volume
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/save_volume
+[17-03-2021 17:20:22] Checking save_settings
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/save_settings
+[17-03-2021 17:20:22] Checking save_game
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/save_game
+[17-03-2021 17:20:22] Checking saveStorage
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/saveStorage
+[17-03-2021 17:20:22] Checking on_click_TB
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/on_click_TB
+[17-03-2021 17:20:22] Checking on_click
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/on_click
+[17-03-2021 17:20:22] Checking notascript
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/notascript
+[17-03-2021 17:20:22] Checking NineSliceBox
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/NineSliceBox
+[17-03-2021 17:20:22] Checking load_volume
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/load_volume
+[17-03-2021 17:20:22] Checking load_settings
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/load_settings
+[17-03-2021 17:20:22] Checking load_game
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/load_game
+[17-03-2021 17:20:22] Checking loadStorage
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/loadStorage
+[17-03-2021 17:20:22] Checking LIST_CONSTANTS
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/LIST_CONSTANTS
+[17-03-2021 17:20:22] Checking keyFinder
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/keyFinder
+[17-03-2021 17:20:22] Checking instruction_parser
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/instruction_parser
+[17-03-2021 17:20:22] Checking get_meta
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/get_meta
+[17-03-2021 17:20:22] Checking get_hover
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/get_hover
+[17-03-2021 17:20:22] Checking getBackground
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/getBackground
+[17-03-2021 17:20:22] Checking flag_parser
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/flag_parser
+[17-03-2021 17:20:22] Checking exclusiveHandler
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/exclusiveHandler
+[17-03-2021 17:20:22] Checking create_textField
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/create_textField
+[17-03-2021 17:20:22] Checking create_TB
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/create_TB
+[17-03-2021 17:20:22] Checking create_shaker
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/create_shaker
+[17-03-2021 17:20:22] Checking create_namePlate
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/create_namePlate
+[17-03-2021 17:20:22] Checking create_menu_type
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/create_menu_type
+[17-03-2021 17:20:22] Checking create_LogBox
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/create_LogBox
+[17-03-2021 17:20:22] Checking create_list
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/create_list
+[17-03-2021 17:20:22] Checking create_choice
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/create_choice
+[17-03-2021 17:20:22] Checking create_charFace
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/create_charFace
+[17-03-2021 17:20:22] Checking create_charBody
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/create_charBody
+[17-03-2021 17:20:22] Checking create_button
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/create_button
+[17-03-2021 17:20:22] Checking create_bark
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/create_bark
+[17-03-2021 17:20:22] Checking create_array
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/create_array
+[17-03-2021 17:20:22] Checking branchFileUnpacker
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/branchFileUnpacker
+[17-03-2021 17:20:22] Checking approach
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/approach
+[17-03-2021 17:20:22] Checking approach.yy
+[17-03-2021 17:20:22] Parsing C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/approach/approach.yy
+[17-03-2021 17:20:22] Reading C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/approach/approach.yy
+[17-03-2021 17:20:22] Par: "folders/Scripts/Extensions/ScriptsButItClonedIDKwhy/Main Game Handlers/UI script" at dir: "C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/approach/approach.yy"
+[17-03-2021 17:20:22] Found Script: approach
+[17-03-2021 17:20:22] Checking approach.gml
+[17-03-2021 17:20:22] Checking branchFileUnpacker.yy
+[17-03-2021 17:20:22] Parsing C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/branchFileUnpacker/branchFileUnpacker.yy
+[17-03-2021 17:20:22] Reading C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/branchFileUnpacker/branchFileUnpacker.yy
+[17-03-2021 17:20:22] Par: "folders/Scripts/Extensions/ScriptsButItClonedIDKwhy/Main Game Handlers" at dir: "C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/branchFileUnpacker/branchFileUnpacker.yy"
+[17-03-2021 17:20:22] Found Script: branchFileUnpacker
+[17-03-2021 17:20:22] Checking branchFileUnpacker.gml
+[17-03-2021 17:20:22] Checking create_array.yy
+[17-03-2021 17:20:22] Parsing C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/create_array/create_array.yy
+[17-03-2021 17:20:22] Reading C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/create_array/create_array.yy
+[17-03-2021 17:20:22] Par: "folders/Scripts/Extensions/ScriptsButItClonedIDKwhy" at dir: "C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/create_array/create_array.yy"
+[17-03-2021 17:20:22] Found Script: create_array
+[17-03-2021 17:20:22] Checking create_array.gml
+[17-03-2021 17:20:22] Checking create_bark.yy
+[17-03-2021 17:20:22] Parsing C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/create_bark/create_bark.yy
+[17-03-2021 17:20:22] Reading C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/create_bark/create_bark.yy
+[17-03-2021 17:20:22] Par: "folders/Scripts/Extensions/ScriptsButItClonedIDKwhy/Main Game Handlers" at dir: "C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/create_bark/create_bark.yy"
+[17-03-2021 17:20:22] Found Script: create_bark
+[17-03-2021 17:20:22] Checking create_bark.gml
+[17-03-2021 17:20:22] Checking create_button.yy
+[17-03-2021 17:20:22] Parsing C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/create_button/create_button.yy
+[17-03-2021 17:20:22] Reading C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/create_button/create_button.yy
+[17-03-2021 17:20:22] Par: "folders/Scripts/Extensions/ScriptsButItClonedIDKwhy/Main Menu Scripts/UI Main Menu" at dir: "C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/create_button/create_button.yy"
+[17-03-2021 17:20:22] Found Script: create_button
+[17-03-2021 17:20:22] Checking create_button.gml
+[17-03-2021 17:20:22] Checking create_charBody.yy
+[17-03-2021 17:20:22] Parsing C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/create_charBody/create_charBody.yy
+[17-03-2021 17:20:22] Reading C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/create_charBody/create_charBody.yy
+[17-03-2021 17:20:22] Par: "folders/Scripts/Extensions/ScriptsButItClonedIDKwhy/Main Game Handlers/UI script" at dir: "C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/create_charBody/create_charBody.yy"
+[17-03-2021 17:20:22] Found Script: create_charBody
+[17-03-2021 17:20:22] Checking create_charBody.gml
+[17-03-2021 17:20:22] Checking create_charFace.yy
+[17-03-2021 17:20:22] Parsing C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/create_charFace/create_charFace.yy
+[17-03-2021 17:20:22] Reading C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/create_charFace/create_charFace.yy
+[17-03-2021 17:20:22] Par: "folders/Scripts/Extensions/ScriptsButItClonedIDKwhy/Main Game Handlers/UI script" at dir: "C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/create_charFace/create_charFace.yy"
+[17-03-2021 17:20:22] Found Script: create_charFace
+[17-03-2021 17:20:22] Checking create_charFace.gml
+[17-03-2021 17:20:22] Checking create_choice.yy
+[17-03-2021 17:20:22] Parsing C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/create_choice/create_choice.yy
+[17-03-2021 17:20:22] Reading C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/create_choice/create_choice.yy
+[17-03-2021 17:20:22] Par: "folders/Scripts/Extensions/ScriptsButItClonedIDKwhy/Main Game Handlers/UI script" at dir: "C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/create_choice/create_choice.yy"
+[17-03-2021 17:20:22] Found Script: create_choice
+[17-03-2021 17:20:22] Checking create_choice.gml
+[17-03-2021 17:20:22] Checking create_list.yy
+[17-03-2021 17:20:22] Parsing C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/create_list/create_list.yy
+[17-03-2021 17:20:22] Reading C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/create_list/create_list.yy
+[17-03-2021 17:20:22] Par: "folders/Scripts/Extensions/ScriptsButItClonedIDKwhy/Main Game Handlers/UI script" at dir: "C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/create_list/create_list.yy"
+[17-03-2021 17:20:22] Found Script: create_list
+[17-03-2021 17:20:22] Checking create_list.gml
+[17-03-2021 17:20:22] Checking create_TB.yy
+[17-03-2021 17:20:22] Trash file: create_TB.yy, will be moved to ___yyp_maker_trash
+[17-03-2021 17:20:22] Checking create_LogBox.yy
+[17-03-2021 17:20:22] Parsing C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/create_LogBox/create_LogBox.yy
+[17-03-2021 17:20:22] Reading C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/create_LogBox/create_LogBox.yy
+[17-03-2021 17:20:22] Par: "folders/Scripts/Extensions/ScriptsButItClonedIDKwhy/Main Game Handlers/UI script" at dir: "C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/create_LogBox/create_LogBox.yy"
+[17-03-2021 17:20:22] Found Script: create_LogBox
+[17-03-2021 17:20:22] Checking create_LogBox.gml
+[17-03-2021 17:20:22] Checking create_menu_type.yy
+[17-03-2021 17:20:22] Parsing C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/create_menu_type/create_menu_type.yy
+[17-03-2021 17:20:22] Reading C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/create_menu_type/create_menu_type.yy
+[17-03-2021 17:20:22] Par: "folders/Scripts/Extensions/ScriptsButItClonedIDKwhy/Main Menu Scripts/UI Main Menu" at dir: "C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/create_menu_type/create_menu_type.yy"
+[17-03-2021 17:20:22] Found Script: create_menu_type
+[17-03-2021 17:20:22] Checking create_menu_type.gml
+[17-03-2021 17:20:22] Checking create_namePlate.yy
+[17-03-2021 17:20:22] Parsing C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/create_namePlate/create_namePlate.yy
+[17-03-2021 17:20:22] Reading C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/create_namePlate/create_namePlate.yy
+[17-03-2021 17:20:22] Par: "folders/Scripts/Extensions/ScriptsButItClonedIDKwhy/Main Game Handlers/UI script" at dir: "C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/create_namePlate/create_namePlate.yy"
+[17-03-2021 17:20:22] Found Script: create_namePlate
+[17-03-2021 17:20:22] Checking create_namePlate.gml
+[17-03-2021 17:20:22] Checking create_shaker.yy
+[17-03-2021 17:20:22] Parsing C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/create_shaker/create_shaker.yy
+[17-03-2021 17:20:22] Reading C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/create_shaker/create_shaker.yy
+[17-03-2021 17:20:22] Par: "folders/Scripts/Extensions/ScriptsButItClonedIDKwhy/Main Game Handlers/UI script" at dir: "C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/create_shaker/create_shaker.yy"
+[17-03-2021 17:20:22] Found Script: create_shaker
+[17-03-2021 17:20:22] Checking create_shaker.gml
+[17-03-2021 17:20:22] Checking create_TB.yy
+[17-03-2021 17:20:22] Parsing C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/create_TB/create_TB.yy
+[17-03-2021 17:20:22] Reading C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/create_TB/create_TB.yy
+[17-03-2021 17:20:22] Par: "folders/Scripts/Extensions/ScriptsButItClonedIDKwhy/Main Game Handlers/UI script" at dir: "C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/create_TB/create_TB.yy"
+[17-03-2021 17:20:22] Found Script: create_TB
+[17-03-2021 17:20:22] Checking create_TB.gml
+[17-03-2021 17:20:22] Checking create_textField.yy
+[17-03-2021 17:20:22] Parsing C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/create_textField/create_textField.yy
+[17-03-2021 17:20:22] Reading C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/create_textField/create_textField.yy
+[17-03-2021 17:20:22] Par: "folders/Scripts/Extensions/ScriptsButItClonedIDKwhy/Main Game Handlers/UI script" at dir: "C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/create_textField/create_textField.yy"
+[17-03-2021 17:20:22] Found Script: create_textField
+[17-03-2021 17:20:22] Checking create_textField.gml
+[17-03-2021 17:20:22] Checking exclusiveHandler.yy
+[17-03-2021 17:20:22] Parsing C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/exclusiveHandler/exclusiveHandler.yy
+[17-03-2021 17:20:22] Reading C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/exclusiveHandler/exclusiveHandler.yy
+[17-03-2021 17:20:22] Par: "folders/Scripts/Extensions/ScriptsButItClonedIDKwhy/Main Game Handlers" at dir: "C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/exclusiveHandler/exclusiveHandler.yy"
+[17-03-2021 17:20:22] Found Script: exclusiveHandler
+[17-03-2021 17:20:22] Checking exclusiveHandler.gml
+[17-03-2021 17:20:22] Checking flag_parser.yy
+[17-03-2021 17:20:22] Parsing C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/flag_parser/flag_parser.yy
+[17-03-2021 17:20:22] Reading C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/flag_parser/flag_parser.yy
+[17-03-2021 17:20:22] Par: "folders/Scripts/Extensions/ScriptsButItClonedIDKwhy/Main Game Handlers" at dir: "C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/flag_parser/flag_parser.yy"
+[17-03-2021 17:20:22] Found Script: flag_parser
+[17-03-2021 17:20:22] Checking flag_parser.gml
+[17-03-2021 17:20:22] Checking getBackground.yy
+[17-03-2021 17:20:22] Parsing C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/getBackground/getBackground.yy
+[17-03-2021 17:20:22] Reading C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/getBackground/getBackground.yy
+[17-03-2021 17:20:22] Par: "folders/Scripts/Extensions/ScriptsButItClonedIDKwhy/Main Game Handlers" at dir: "C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/getBackground/getBackground.yy"
+[17-03-2021 17:20:22] Found Script: getBackground
+[17-03-2021 17:20:22] Checking getBackground.gml
+[17-03-2021 17:20:22] Checking get_hover.yy
+[17-03-2021 17:20:22] Parsing C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/get_hover/get_hover.yy
+[17-03-2021 17:20:22] Reading C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/get_hover/get_hover.yy
+[17-03-2021 17:20:22] Par: "folders/Scripts/Extensions/ScriptsButItClonedIDKwhy/Main Menu Scripts" at dir: "C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/get_hover/get_hover.yy"
+[17-03-2021 17:20:22] Found Script: get_hover
+[17-03-2021 17:20:22] Checking get_hover.gml
+[17-03-2021 17:20:22] Checking get_meta.yy
+[17-03-2021 17:20:22] Parsing C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/get_meta/get_meta.yy
+[17-03-2021 17:20:22] Reading C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/get_meta/get_meta.yy
+[17-03-2021 17:20:22] Par: "folders/Scripts/Extensions/ScriptsButItClonedIDKwhy/Main Game Handlers" at dir: "C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/get_meta/get_meta.yy"
+[17-03-2021 17:20:22] Found Script: get_meta
+[17-03-2021 17:20:22] Checking get_meta.gml
+[17-03-2021 17:20:22] Checking instruction_parser.yy
+[17-03-2021 17:20:22] Parsing C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/instruction_parser/instruction_parser.yy
+[17-03-2021 17:20:22] Reading C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/instruction_parser/instruction_parser.yy
+[17-03-2021 17:20:22] Par: "folders/Scripts/Extensions/ScriptsButItClonedIDKwhy/Main Game Handlers" at dir: "C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/instruction_parser/instruction_parser.yy"
+[17-03-2021 17:20:22] Found Script: instruction_parser
+[17-03-2021 17:20:22] Checking instruction_parser.gml
+[17-03-2021 17:20:22] Checking keyFinder.yy
+[17-03-2021 17:20:22] Parsing C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/keyFinder/keyFinder.yy
+[17-03-2021 17:20:22] Reading C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/keyFinder/keyFinder.yy
+[17-03-2021 17:20:22] Par: "folders/Scripts/Extensions/ScriptsButItClonedIDKwhy/Main Game Handlers" at dir: "C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/keyFinder/keyFinder.yy"
+[17-03-2021 17:20:22] Found Script: keyFinder
+[17-03-2021 17:20:22] Checking keyFinder.gml
+[17-03-2021 17:20:22] Checking LIST_CONSTANTS.yy
+[17-03-2021 17:20:22] Parsing C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/LIST_CONSTANTS/LIST_CONSTANTS.yy
+[17-03-2021 17:20:22] Reading C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/LIST_CONSTANTS/LIST_CONSTANTS.yy
+[17-03-2021 17:20:22] Par: "folders/Scripts/Extensions/ScriptsButItClonedIDKwhy/Main Menu Scripts" at dir: "C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/LIST_CONSTANTS/LIST_CONSTANTS.yy"
+[17-03-2021 17:20:22] Found Script: LIST_CONSTANTS
+[17-03-2021 17:20:22] Checking LIST_CONSTANTS.gml
+[17-03-2021 17:20:22] Checking loadStorage.yy
+[17-03-2021 17:20:22] Parsing C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/loadStorage/loadStorage.yy
+[17-03-2021 17:20:22] Reading C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/loadStorage/loadStorage.yy
+[17-03-2021 17:20:22] Par: "folders/Scripts" at dir: "C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/loadStorage/loadStorage.yy"
+[17-03-2021 17:20:22] Found Script: loadStorage
+[17-03-2021 17:20:22] Checking loadStorage.gml
+[17-03-2021 17:20:22] Checking load_game.yy
+[17-03-2021 17:20:22] Parsing C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/load_game/load_game.yy
+[17-03-2021 17:20:22] Reading C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/load_game/load_game.yy
+[17-03-2021 17:20:22] Par: "folders/Scripts/Extensions/ScriptsButItClonedIDKwhy/Main Game Handlers" at dir: "C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/load_game/load_game.yy"
+[17-03-2021 17:20:22] Found Script: load_game
+[17-03-2021 17:20:22] Checking load_game.gml
+[17-03-2021 17:20:22] Checking load_settings.yy
+[17-03-2021 17:20:22] Parsing C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/load_settings/load_settings.yy
+[17-03-2021 17:20:22] Reading C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/load_settings/load_settings.yy
+[17-03-2021 17:20:22] Par: "folders/Scripts/Extensions/ScriptsButItClonedIDKwhy/Main Menu Scripts" at dir: "C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/load_settings/load_settings.yy"
+[17-03-2021 17:20:22] Found Script: load_settings
+[17-03-2021 17:20:22] Checking load_settings.gml
+[17-03-2021 17:20:22] Checking load_volume.yy
+[17-03-2021 17:20:22] Parsing C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/load_volume/load_volume.yy
+[17-03-2021 17:20:22] Reading C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/load_volume/load_volume.yy
+[17-03-2021 17:20:22] Par: "folders/Scripts/Extensions/ScriptsButItClonedIDKwhy/Main Menu Scripts" at dir: "C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/load_volume/load_volume.yy"
+[17-03-2021 17:20:22] Found Script: load_volume
+[17-03-2021 17:20:22] Checking load_volume.gml
+[17-03-2021 17:20:22] Checking NineSliceBox.yy
+[17-03-2021 17:20:22] Parsing C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/NineSliceBox/NineSliceBox.yy
+[17-03-2021 17:20:22] Reading C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/NineSliceBox/NineSliceBox.yy
+[17-03-2021 17:20:22] Par: "folders/Scripts/Extensions/ScriptsButItClonedIDKwhy/Main Game Handlers/UI script" at dir: "C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/NineSliceBox/NineSliceBox.yy"
+[17-03-2021 17:20:22] Found Script: NineSliceBox
+[17-03-2021 17:20:22] Checking NineSliceBox.gml
+[17-03-2021 17:20:22] Checking notascript.yy
+[17-03-2021 17:20:22] Parsing C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/notascript/notascript.yy
+[17-03-2021 17:20:22] Reading C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/notascript/notascript.yy
+[17-03-2021 17:20:22] Par: "folders/Scripts" at dir: "C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/notascript/notascript.yy"
+[17-03-2021 17:20:22] Found Script: notascript
+[17-03-2021 17:20:22] Checking notascript.gml
+[17-03-2021 17:20:22] Checking on_click.yy
+[17-03-2021 17:20:22] Parsing C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/on_click/on_click.yy
+[17-03-2021 17:20:22] Reading C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/on_click/on_click.yy
+[17-03-2021 17:20:22] Par: "folders/Scripts/Extensions/ScriptsButItClonedIDKwhy/Main Menu Scripts" at dir: "C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/on_click/on_click.yy"
+[17-03-2021 17:20:22] Found Script: on_click
+[17-03-2021 17:20:22] Checking on_click.gml
+[17-03-2021 17:20:22] Checking on_click_TB.yy
+[17-03-2021 17:20:22] Parsing C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/on_click_TB/on_click_TB.yy
+[17-03-2021 17:20:22] Reading C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/on_click_TB/on_click_TB.yy
+[17-03-2021 17:20:22] Par: "folders/Scripts/Extensions/ScriptsButItClonedIDKwhy/Main Game Handlers" at dir: "C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/on_click_TB/on_click_TB.yy"
+[17-03-2021 17:20:22] Found Script: on_click_TB
+[17-03-2021 17:20:22] Checking on_click_TB.gml
+[17-03-2021 17:20:22] Checking saveStorage.yy
+[17-03-2021 17:20:22] Parsing C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/saveStorage/saveStorage.yy
+[17-03-2021 17:20:22] Reading C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/saveStorage/saveStorage.yy
+[17-03-2021 17:20:22] Par: "folders/Scripts" at dir: "C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/saveStorage/saveStorage.yy"
+[17-03-2021 17:20:22] Found Script: saveStorage
+[17-03-2021 17:20:22] Checking saveStorage.gml
+[17-03-2021 17:20:22] Checking save_game.yy
+[17-03-2021 17:20:22] Parsing C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/save_game/save_game.yy
+[17-03-2021 17:20:22] Reading C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/save_game/save_game.yy
+[17-03-2021 17:20:22] Par: "folders/Scripts/Extensions/ScriptsButItClonedIDKwhy/Main Game Handlers" at dir: "C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/save_game/save_game.yy"
+[17-03-2021 17:20:22] Found Script: save_game
+[17-03-2021 17:20:22] Checking save_game.gml
+[17-03-2021 17:20:22] Checking save_settings.yy
+[17-03-2021 17:20:22] Parsing C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/save_settings/save_settings.yy
+[17-03-2021 17:20:22] Reading C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/save_settings/save_settings.yy
+[17-03-2021 17:20:22] Par: "folders/Scripts/Extensions/ScriptsButItClonedIDKwhy/Main Menu Scripts" at dir: "C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/save_settings/save_settings.yy"
+[17-03-2021 17:20:22] Found Script: save_settings
+[17-03-2021 17:20:22] Checking save_settings.gml
+[17-03-2021 17:20:22] Checking save_volume.yy
+[17-03-2021 17:20:22] Parsing C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/save_volume/save_volume.yy
+[17-03-2021 17:20:22] Reading C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/save_volume/save_volume.yy
+[17-03-2021 17:20:22] Par: "folders/Scripts/Extensions/ScriptsButItClonedIDKwhy/Main Menu Scripts" at dir: "C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/save_volume/save_volume.yy"
+[17-03-2021 17:20:22] Found Script: save_volume
+[17-03-2021 17:20:22] Checking save_volume.gml
+[17-03-2021 17:20:22] Checking text_log.yy
+[17-03-2021 17:20:22] Parsing C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/text_log/text_log.yy
+[17-03-2021 17:20:22] Reading C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/text_log/text_log.yy
+[17-03-2021 17:20:22] Par: "folders/Scripts/Extensions/ScriptsButItClonedIDKwhy/Main Game Handlers/UI script" at dir: "C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/text_log/text_log.yy"
+[17-03-2021 17:20:22] Found Script: text_log
+[17-03-2021 17:20:22] Checking text_log.gml
+[17-03-2021 17:20:22] Checking yes_no_struct.yy
+[17-03-2021 17:20:22] Parsing C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/yes_no_struct/yes_no_struct.yy
+[17-03-2021 17:20:22] Reading C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/yes_no_struct/yes_no_struct.yy
+[17-03-2021 17:20:22] Par: "folders/Scripts/Extensions/ScriptsButItClonedIDKwhy" at dir: "C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/scripts/yes_no_struct/yes_no_struct.yy"
+[17-03-2021 17:20:22] Found Script: yes_no_struct
+[17-03-2021 17:20:22] Checking yes_no_struct.gml
+[17-03-2021 17:20:22] Checking part_that_loops
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sounds/part_that_loops
+[17-03-2021 17:20:22] Checking LoseTheLilaKeepTheBaka
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sounds/LoseTheLilaKeepTheBaka
+[17-03-2021 17:20:22] Checking LilaYouPervert_3rd_accusatory_EDITED_
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sounds/LilaYouPervert_3rd_accusatory_EDITED_
+[17-03-2021 17:20:22] Checking LilaYouPervert_1st_EDITED_
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sounds/LilaYouPervert_1st_EDITED_
+[17-03-2021 17:20:22] Checking LilaWell2_EDITED_
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sounds/LilaWell2_EDITED_
+[17-03-2021 17:20:22] Checking LilaSo1_3rd_inquisitive_EDITED_
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sounds/LilaSo1_3rd_inquisitive_EDITED_
+[17-03-2021 17:20:22] Checking LilaSo1_1st_EDITED_
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sounds/LilaSo1_1st_EDITED_
+[17-03-2021 17:20:22] Checking LilaSimpleReally_last_EDITED_
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sounds/LilaSimpleReally_last_EDITED_
+[17-03-2021 17:20:22] Checking LilaSimpleReally_1st_EDITED_
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sounds/LilaSimpleReally_1st_EDITED_
+[17-03-2021 17:20:22] Checking LilaHaHaYeah2_EDITED_
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sounds/LilaHaHaYeah2_EDITED_
+[17-03-2021 17:20:22] Checking LilaGUB2_EDITED_
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sounds/LilaGUB2_EDITED_
+[17-03-2021 17:20:22] Checking LilaGUB1_EDITED_
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sounds/LilaGUB1_EDITED_
+[17-03-2021 17:20:22] Checking LilaGiggle1_EDITED_
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sounds/LilaGiggle1_EDITED_
+[17-03-2021 17:20:22] Checking LilaGetUp_3rd_EDITED_
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sounds/LilaGetUp_3rd_EDITED_
+[17-03-2021 17:20:22] Checking LilaGetUp_1st_EDITED_
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sounds/LilaGetUp_1st_EDITED_
+[17-03-2021 17:20:22] Checking LilaGasp1_EDITED_
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sounds/LilaGasp1_EDITED_
+[17-03-2021 17:20:22] Checking LilaBaka_YouBaka_EDITED_
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sounds/LilaBaka_YouBaka_EDITED_
+[17-03-2021 17:20:22] Checking LilaBaka1_EDITED_
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sounds/LilaBaka1_EDITED_
+[17-03-2021 17:20:22] Checking intro
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sounds/intro
+[17-03-2021 17:20:22] Checking intro.yy
+[17-03-2021 17:20:22] Parsing C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sounds/intro/intro.yy
+[17-03-2021 17:20:22] Reading C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sounds/intro/intro.yy
+[17-03-2021 17:20:22] Par: "folders/Sounds" at dir: "C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sounds/intro/intro.yy"
+[17-03-2021 17:20:22] Found Sound: intro
+[17-03-2021 17:20:22] Checking intro
+[17-03-2021 17:20:22] Checking LilaBaka1_EDITED_.yy
+[17-03-2021 17:20:22] Parsing C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sounds/LilaBaka1_EDITED_/LilaBaka1_EDITED_.yy
+[17-03-2021 17:20:22] Reading C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sounds/LilaBaka1_EDITED_/LilaBaka1_EDITED_.yy
+[17-03-2021 17:20:22] Par: "folders/Sounds/LilaBarks" at dir: "C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sounds/LilaBaka1_EDITED_/LilaBaka1_EDITED_.yy"
+[17-03-2021 17:20:22] Found Sound: LilaBaka1_EDITED_
+[17-03-2021 17:20:22] Checking LilaBaka1_EDITED_.wav
+[17-03-2021 17:20:22] Checking LilaBaka_YouBaka_EDITED_.yy
+[17-03-2021 17:20:22] Parsing C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sounds/LilaBaka_YouBaka_EDITED_/LilaBaka_YouBaka_EDITED_.yy
+[17-03-2021 17:20:22] Reading C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sounds/LilaBaka_YouBaka_EDITED_/LilaBaka_YouBaka_EDITED_.yy
+[17-03-2021 17:20:22] Par: "folders/Sounds/LilaBarks" at dir: "C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sounds/LilaBaka_YouBaka_EDITED_/LilaBaka_YouBaka_EDITED_.yy"
+[17-03-2021 17:20:22] Found Sound: LilaBaka_YouBaka_EDITED_
+[17-03-2021 17:20:22] Checking LilaBaka_YouBaka_EDITED_.wav
+[17-03-2021 17:20:22] Checking LilaGasp1_EDITED_.yy
+[17-03-2021 17:20:22] Parsing C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sounds/LilaGasp1_EDITED_/LilaGasp1_EDITED_.yy
+[17-03-2021 17:20:22] Reading C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sounds/LilaGasp1_EDITED_/LilaGasp1_EDITED_.yy
+[17-03-2021 17:20:22] Par: "folders/Sounds/LilaBarks" at dir: "C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sounds/LilaGasp1_EDITED_/LilaGasp1_EDITED_.yy"
+[17-03-2021 17:20:22] Found Sound: LilaGasp1_EDITED_
+[17-03-2021 17:20:22] Checking LilaGasp1_EDITED_.wav
+[17-03-2021 17:20:22] Checking LilaGetUp_1st_EDITED_.yy
+[17-03-2021 17:20:22] Parsing C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sounds/LilaGetUp_1st_EDITED_/LilaGetUp_1st_EDITED_.yy
+[17-03-2021 17:20:22] Reading C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sounds/LilaGetUp_1st_EDITED_/LilaGetUp_1st_EDITED_.yy
+[17-03-2021 17:20:22] Par: "folders/Sounds/LilaBarks" at dir: "C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sounds/LilaGetUp_1st_EDITED_/LilaGetUp_1st_EDITED_.yy"
+[17-03-2021 17:20:22] Found Sound: LilaGetUp_1st_EDITED_
+[17-03-2021 17:20:22] Checking LilaGetUp_1st_EDITED_.wav
+[17-03-2021 17:20:22] Checking LilaGetUp_3rd_EDITED_.yy
+[17-03-2021 17:20:22] Parsing C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sounds/LilaGetUp_3rd_EDITED_/LilaGetUp_3rd_EDITED_.yy
+[17-03-2021 17:20:22] Reading C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sounds/LilaGetUp_3rd_EDITED_/LilaGetUp_3rd_EDITED_.yy
+[17-03-2021 17:20:22] Par: "folders/Sounds/LilaBarks" at dir: "C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sounds/LilaGetUp_3rd_EDITED_/LilaGetUp_3rd_EDITED_.yy"
+[17-03-2021 17:20:22] Found Sound: LilaGetUp_3rd_EDITED_
+[17-03-2021 17:20:22] Checking LilaGetUp_3rd_EDITED_.wav
+[17-03-2021 17:20:22] Checking LilaGiggle1_EDITED_.yy
+[17-03-2021 17:20:22] Parsing C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sounds/LilaGiggle1_EDITED_/LilaGiggle1_EDITED_.yy
+[17-03-2021 17:20:22] Reading C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sounds/LilaGiggle1_EDITED_/LilaGiggle1_EDITED_.yy
+[17-03-2021 17:20:22] Par: "folders/Sounds/LilaBarks" at dir: "C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sounds/LilaGiggle1_EDITED_/LilaGiggle1_EDITED_.yy"
+[17-03-2021 17:20:22] Found Sound: LilaGiggle1_EDITED_
+[17-03-2021 17:20:22] Checking LilaGiggle1_EDITED_.wav
+[17-03-2021 17:20:22] Checking LilaGUB1_EDITED_.yy
+[17-03-2021 17:20:22] Parsing C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sounds/LilaGUB1_EDITED_/LilaGUB1_EDITED_.yy
+[17-03-2021 17:20:22] Reading C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sounds/LilaGUB1_EDITED_/LilaGUB1_EDITED_.yy
+[17-03-2021 17:20:22] Par: "folders/Sounds/LilaBarks" at dir: "C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sounds/LilaGUB1_EDITED_/LilaGUB1_EDITED_.yy"
+[17-03-2021 17:20:22] Found Sound: LilaGUB1_EDITED_
+[17-03-2021 17:20:22] Checking LilaGUB1_EDITED_.wav
+[17-03-2021 17:20:22] Checking LilaGUB2_EDITED_.yy
+[17-03-2021 17:20:22] Parsing C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sounds/LilaGUB2_EDITED_/LilaGUB2_EDITED_.yy
+[17-03-2021 17:20:22] Reading C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sounds/LilaGUB2_EDITED_/LilaGUB2_EDITED_.yy
+[17-03-2021 17:20:22] Par: "folders/Sounds/LilaBarks" at dir: "C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sounds/LilaGUB2_EDITED_/LilaGUB2_EDITED_.yy"
+[17-03-2021 17:20:22] Found Sound: LilaGUB2_EDITED_
+[17-03-2021 17:20:22] Checking LilaGUB2_EDITED_.wav
+[17-03-2021 17:20:22] Checking LilaHaHaYeah2_EDITED_.yy
+[17-03-2021 17:20:22] Parsing C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sounds/LilaHaHaYeah2_EDITED_/LilaHaHaYeah2_EDITED_.yy
+[17-03-2021 17:20:22] Reading C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sounds/LilaHaHaYeah2_EDITED_/LilaHaHaYeah2_EDITED_.yy
+[17-03-2021 17:20:22] Par: "folders/Sounds/LilaBarks" at dir: "C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sounds/LilaHaHaYeah2_EDITED_/LilaHaHaYeah2_EDITED_.yy"
+[17-03-2021 17:20:22] Found Sound: LilaHaHaYeah2_EDITED_
+[17-03-2021 17:20:22] Checking LilaHaHaYeah2_EDITED_.wav
+[17-03-2021 17:20:22] Checking LilaSimpleReally_1st_EDITED_.yy
+[17-03-2021 17:20:22] Parsing C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sounds/LilaSimpleReally_1st_EDITED_/LilaSimpleReally_1st_EDITED_.yy
+[17-03-2021 17:20:22] Reading C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sounds/LilaSimpleReally_1st_EDITED_/LilaSimpleReally_1st_EDITED_.yy
+[17-03-2021 17:20:22] Par: "folders/Sounds/LilaBarks" at dir: "C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sounds/LilaSimpleReally_1st_EDITED_/LilaSimpleReally_1st_EDITED_.yy"
+[17-03-2021 17:20:22] Found Sound: LilaSimpleReally_1st_EDITED_
+[17-03-2021 17:20:22] Checking LilaSimpleReally_1st_EDITED_.wav
+[17-03-2021 17:20:22] Checking LilaSimpleReally_last_EDITED_.yy
+[17-03-2021 17:20:22] Parsing C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sounds/LilaSimpleReally_last_EDITED_/LilaSimpleReally_last_EDITED_.yy
+[17-03-2021 17:20:22] Reading C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sounds/LilaSimpleReally_last_EDITED_/LilaSimpleReally_last_EDITED_.yy
+[17-03-2021 17:20:22] Par: "folders/Sounds/LilaBarks" at dir: "C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sounds/LilaSimpleReally_last_EDITED_/LilaSimpleReally_last_EDITED_.yy"
+[17-03-2021 17:20:22] Found Sound: LilaSimpleReally_last_EDITED_
+[17-03-2021 17:20:22] Checking LilaSimpleReally_last_EDITED_.wav
+[17-03-2021 17:20:22] Checking LilaSo1_1st_EDITED_.yy
+[17-03-2021 17:20:22] Parsing C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sounds/LilaSo1_1st_EDITED_/LilaSo1_1st_EDITED_.yy
+[17-03-2021 17:20:22] Reading C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sounds/LilaSo1_1st_EDITED_/LilaSo1_1st_EDITED_.yy
+[17-03-2021 17:20:22] Par: "folders/Sounds/LilaBarks" at dir: "C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sounds/LilaSo1_1st_EDITED_/LilaSo1_1st_EDITED_.yy"
+[17-03-2021 17:20:22] Found Sound: LilaSo1_1st_EDITED_
+[17-03-2021 17:20:22] Checking LilaSo1_1st_EDITED_.wav
+[17-03-2021 17:20:22] Checking LilaSo1_3rd_inquisitive_EDITED_.yy
+[17-03-2021 17:20:22] Parsing C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sounds/LilaSo1_3rd_inquisitive_EDITED_/LilaSo1_3rd_inquisitive_EDITED_.yy
+[17-03-2021 17:20:22] Reading C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sounds/LilaSo1_3rd_inquisitive_EDITED_/LilaSo1_3rd_inquisitive_EDITED_.yy
+[17-03-2021 17:20:22] Par: "folders/Sounds/LilaBarks" at dir: "C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sounds/LilaSo1_3rd_inquisitive_EDITED_/LilaSo1_3rd_inquisitive_EDITED_.yy"
+[17-03-2021 17:20:22] Found Sound: LilaSo1_3rd_inquisitive_EDITED_
+[17-03-2021 17:20:22] Checking LilaSo1_3rd_inquisitive_EDITED_.wav
+[17-03-2021 17:20:22] Checking LilaWell2_EDITED_.yy
+[17-03-2021 17:20:22] Parsing C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sounds/LilaWell2_EDITED_/LilaWell2_EDITED_.yy
+[17-03-2021 17:20:22] Reading C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sounds/LilaWell2_EDITED_/LilaWell2_EDITED_.yy
+[17-03-2021 17:20:22] Par: "folders/Sounds/LilaBarks" at dir: "C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sounds/LilaWell2_EDITED_/LilaWell2_EDITED_.yy"
+[17-03-2021 17:20:22] Found Sound: LilaWell2_EDITED_
+[17-03-2021 17:20:22] Checking LilaWell2_EDITED_.wav
+[17-03-2021 17:20:22] Checking LilaYouPervert_1st_EDITED_.yy
+[17-03-2021 17:20:22] Parsing C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sounds/LilaYouPervert_1st_EDITED_/LilaYouPervert_1st_EDITED_.yy
+[17-03-2021 17:20:22] Reading C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sounds/LilaYouPervert_1st_EDITED_/LilaYouPervert_1st_EDITED_.yy
+[17-03-2021 17:20:22] Par: "folders/Sounds/LilaBarks" at dir: "C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sounds/LilaYouPervert_1st_EDITED_/LilaYouPervert_1st_EDITED_.yy"
+[17-03-2021 17:20:22] Found Sound: LilaYouPervert_1st_EDITED_
+[17-03-2021 17:20:22] Checking LilaYouPervert_1st_EDITED_.wav
+[17-03-2021 17:20:22] Checking LilaYouPervert_3rd_accusatory_EDITED_.yy
+[17-03-2021 17:20:22] Parsing C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sounds/LilaYouPervert_3rd_accusatory_EDITED_/LilaYouPervert_3rd_accusatory_EDITED_.yy
+[17-03-2021 17:20:22] Reading C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sounds/LilaYouPervert_3rd_accusatory_EDITED_/LilaYouPervert_3rd_accusatory_EDITED_.yy
+[17-03-2021 17:20:22] Par: "folders/Sounds/LilaBarks" at dir: "C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sounds/LilaYouPervert_3rd_accusatory_EDITED_/LilaYouPervert_3rd_accusatory_EDITED_.yy"
+[17-03-2021 17:20:22] Found Sound: LilaYouPervert_3rd_accusatory_EDITED_
+[17-03-2021 17:20:22] Checking LilaYouPervert_3rd_accusatory_EDITED_.wav
+[17-03-2021 17:20:22] Checking LoseTheLilaKeepTheBaka.yy
+[17-03-2021 17:20:22] Parsing C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sounds/LoseTheLilaKeepTheBaka/LoseTheLilaKeepTheBaka.yy
+[17-03-2021 17:20:22] Reading C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sounds/LoseTheLilaKeepTheBaka/LoseTheLilaKeepTheBaka.yy
+[17-03-2021 17:20:22] Par: "folders/Sounds/LilaBarks" at dir: "C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sounds/LoseTheLilaKeepTheBaka/LoseTheLilaKeepTheBaka.yy"
+[17-03-2021 17:20:22] Found Sound: LoseTheLilaKeepTheBaka
+[17-03-2021 17:20:22] Checking LoseTheLilaKeepTheBaka.wav
+[17-03-2021 17:20:22] Checking part_that_loops.yy
+[17-03-2021 17:20:22] Parsing C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sounds/part_that_loops/part_that_loops.yy
+[17-03-2021 17:20:22] Reading C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sounds/part_that_loops/part_that_loops.yy
+[17-03-2021 17:20:22] Par: "folders/Sounds" at dir: "C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sounds/part_that_loops/part_that_loops.yy"
+[17-03-2021 17:20:22] Found Sound: part_that_loops
+[17-03-2021 17:20:22] Checking part_that_loops
+[17-03-2021 17:20:22] Checking testSprite
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sprites/testSprite
+[17-03-2021 17:20:22] Checking SPR_LilaFingertent
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sprites/SPR_LilaFingertent
+[17-03-2021 17:20:22] Checking SPR_GAGirl
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sprites/SPR_GAGirl
+[17-03-2021 17:20:22] Checking SPR_DreamLilaFaceNormal
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sprites/SPR_DreamLilaFaceNormal
+[17-03-2021 17:20:22] Checking SPRtransBack
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sprites/SPRtransBack
+[17-03-2021 17:20:22] Checking SPRtextInput
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sprites/SPRtextInput
+[17-03-2021 17:20:22] Checking SPRQuitSprite
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sprites/SPRQuitSprite
+[17-03-2021 17:20:22] Checking SPROptions
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sprites/SPROptions
+[17-03-2021 17:20:22] Checking SPRlogBox
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sprites/SPRlogBox
+[17-03-2021 17:20:22] Checking SPRLoad
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sprites/SPRLoad
+[17-03-2021 17:20:22] Checking SPRcursor
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sprites/SPRcursor
+[17-03-2021 17:20:22] Checking SPRchoice
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sprites/SPRchoice
+[17-03-2021 17:20:22] Checking SPRblueTextBox
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sprites/SPRblueTextBox
+[17-03-2021 17:20:22] Checking SPRblueNamePlate
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sprites/SPRblueNamePlate
+[17-03-2021 17:20:22] Checking SPRbackgroundSprites
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sprites/SPRbackgroundSprites
+[17-03-2021 17:20:22] Checking SlicedBox
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sprites/SlicedBox
+[17-03-2021 17:20:22] Checking lockedSlicedBox
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sprites/lockedSlicedBox
+[17-03-2021 17:20:22] Checking lockedSlicedBox.yy
+[17-03-2021 17:20:22] Parsing C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sprites/lockedSlicedBox/lockedSlicedBox.yy
+[17-03-2021 17:20:22] Reading C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sprites/lockedSlicedBox/lockedSlicedBox.yy
+[17-03-2021 17:20:22] Par: "folders/Sprites/UI Sprites" at dir: "C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sprites/lockedSlicedBox/lockedSlicedBox.yy"
+[17-03-2021 17:20:22] Found Sprite: lockedSlicedBox
+[17-03-2021 17:20:22] Checking layers
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sprites/lockedSlicedBox/layers
+[17-03-2021 17:20:22] Checking dc488b1b-849f-459a-a109-c041dae5b3a2.png
+[17-03-2021 17:20:22] Checking dc488b1b-849f-459a-a109-c041dae5b3a2
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sprites/lockedSlicedBox/layers/dc488b1b-849f-459a-a109-c041dae5b3a2
+[17-03-2021 17:20:22] Checking 0f591409-4cd1-4b95-8c67-bce841cb3d06.png
+[17-03-2021 17:20:22] Checking SlicedBox.yy
+[17-03-2021 17:20:22] Parsing C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sprites/SlicedBox/SlicedBox.yy
+[17-03-2021 17:20:22] Reading C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sprites/SlicedBox/SlicedBox.yy
+[17-03-2021 17:20:22] Par: "folders/Sprites/UI Sprites" at dir: "C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sprites/SlicedBox/SlicedBox.yy"
+[17-03-2021 17:20:22] Found Sprite: SlicedBox
+[17-03-2021 17:20:22] Checking layers
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sprites/SlicedBox/layers
+[17-03-2021 17:20:22] Checking dce5b086-4a25-4572-ad22-352f103ec2a6.png
+[17-03-2021 17:20:22] Checking dce5b086-4a25-4572-ad22-352f103ec2a6
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sprites/SlicedBox/layers/dce5b086-4a25-4572-ad22-352f103ec2a6
+[17-03-2021 17:20:22] Checking 4d6035e6-6944-48cb-952f-b1fd8089f6e1.png
+[17-03-2021 17:20:22] Checking SPRbackgroundSprites.yy
+[17-03-2021 17:20:22] Parsing C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sprites/SPRbackgroundSprites/SPRbackgroundSprites.yy
+[17-03-2021 17:20:22] Reading C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sprites/SPRbackgroundSprites/SPRbackgroundSprites.yy
+[17-03-2021 17:20:22] Par: "folders/Sprites" at dir: "C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sprites/SPRbackgroundSprites/SPRbackgroundSprites.yy"
+[17-03-2021 17:20:22] Found Sprite: SPRbackgroundSprites
+[17-03-2021 17:20:22] Checking layers
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sprites/SPRbackgroundSprites/layers
+[17-03-2021 17:20:22] Checking ef9e481a-8d5d-49f2-8e13-169995e9090a.png
+[17-03-2021 17:20:22] Checking d4060671-51a1-4fe3-a4b7-324a3ad5e7a5.png
+[17-03-2021 17:20:22] Checking 44e3c45b-b205-4600-a837-9eeb7fed3028.png
+[17-03-2021 17:20:22] Checking 32878256-8b1d-43bd-8733-25acd675daad.png
+[17-03-2021 17:20:22] Checking 309bf47c-ef83-40d2-b813-c44b244fb5ea.png
+[17-03-2021 17:20:22] Checking 295324db-5e7e-4c00-8b9c-bd640871791e.png
+[17-03-2021 17:20:22] Checking 103ff97a-a775-4a52-8643-d3bb5f32a9cd.png
+[17-03-2021 17:20:22] Checking ef9e481a-8d5d-49f2-8e13-169995e9090a
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sprites/SPRbackgroundSprites/layers/ef9e481a-8d5d-49f2-8e13-169995e9090a
+[17-03-2021 17:20:22] Checking d4060671-51a1-4fe3-a4b7-324a3ad5e7a5
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sprites/SPRbackgroundSprites/layers/d4060671-51a1-4fe3-a4b7-324a3ad5e7a5
+[17-03-2021 17:20:22] Checking 44e3c45b-b205-4600-a837-9eeb7fed3028
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sprites/SPRbackgroundSprites/layers/44e3c45b-b205-4600-a837-9eeb7fed3028
+[17-03-2021 17:20:22] Checking 32878256-8b1d-43bd-8733-25acd675daad
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sprites/SPRbackgroundSprites/layers/32878256-8b1d-43bd-8733-25acd675daad
+[17-03-2021 17:20:22] Checking 309bf47c-ef83-40d2-b813-c44b244fb5ea
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sprites/SPRbackgroundSprites/layers/309bf47c-ef83-40d2-b813-c44b244fb5ea
+[17-03-2021 17:20:22] Checking 295324db-5e7e-4c00-8b9c-bd640871791e
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sprites/SPRbackgroundSprites/layers/295324db-5e7e-4c00-8b9c-bd640871791e
+[17-03-2021 17:20:22] Checking 103ff97a-a775-4a52-8643-d3bb5f32a9cd
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sprites/SPRbackgroundSprites/layers/103ff97a-a775-4a52-8643-d3bb5f32a9cd
+[17-03-2021 17:20:22] Checking 5ba802fa-f8c7-46ba-83df-9e43272cf6c8.png
+[17-03-2021 17:20:22] Checking 5ba802fa-f8c7-46ba-83df-9e43272cf6c8.png
+[17-03-2021 17:20:22] Checking 5ba802fa-f8c7-46ba-83df-9e43272cf6c8.png
+[17-03-2021 17:20:22] Checking 5ba802fa-f8c7-46ba-83df-9e43272cf6c8.png
+[17-03-2021 17:20:22] Checking 5ba802fa-f8c7-46ba-83df-9e43272cf6c8.png
+[17-03-2021 17:20:22] Checking 5ba802fa-f8c7-46ba-83df-9e43272cf6c8.png
+[17-03-2021 17:20:22] Checking 5ba802fa-f8c7-46ba-83df-9e43272cf6c8.png
+[17-03-2021 17:20:22] Checking SPRblueNamePlate.yy
+[17-03-2021 17:20:22] Parsing C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sprites/SPRblueNamePlate/SPRblueNamePlate.yy
+[17-03-2021 17:20:22] Reading C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sprites/SPRblueNamePlate/SPRblueNamePlate.yy
+[17-03-2021 17:20:22] Par: "folders/Sprites/UI Sprites" at dir: "C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sprites/SPRblueNamePlate/SPRblueNamePlate.yy"
+[17-03-2021 17:20:22] Found Sprite: SPRblueNamePlate
+[17-03-2021 17:20:22] Checking 6622b279-b8ac-4a39-998e-7e81ec95a546.png
+[17-03-2021 17:20:22] Checking SPRblueTextBox.yy
+[17-03-2021 17:20:22] Parsing C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sprites/SPRblueTextBox/SPRblueTextBox.yy
+[17-03-2021 17:20:22] Reading C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sprites/SPRblueTextBox/SPRblueTextBox.yy
+[17-03-2021 17:20:22] Par: "folders/Sprites/UI Sprites" at dir: "C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sprites/SPRblueTextBox/SPRblueTextBox.yy"
+[17-03-2021 17:20:22] Found Sprite: SPRblueTextBox
+[17-03-2021 17:20:22] Checking layers
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sprites/SPRblueTextBox/layers
+[17-03-2021 17:20:22] Checking c52765b1-f896-4b91-a7a6-3d0614665b00.png
+[17-03-2021 17:20:22] Checking c52765b1-f896-4b91-a7a6-3d0614665b00
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sprites/SPRblueTextBox/layers/c52765b1-f896-4b91-a7a6-3d0614665b00
+[17-03-2021 17:20:22] Checking 1af70f6a-878e-47b7-8ce1-e4485c184a0b.png
+[17-03-2021 17:20:22] Checking SPRchoice.yy
+[17-03-2021 17:20:22] Parsing C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sprites/SPRchoice/SPRchoice.yy
+[17-03-2021 17:20:22] Reading C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sprites/SPRchoice/SPRchoice.yy
+[17-03-2021 17:20:22] Par: "folders/Sprites/UI Sprites" at dir: "C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sprites/SPRchoice/SPRchoice.yy"
+[17-03-2021 17:20:22] Found Sprite: SPRchoice
+[17-03-2021 17:20:22] Checking layers
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sprites/SPRchoice/layers
+[17-03-2021 17:20:22] Checking fc3db3de-0781-46c1-8b2d-a4a148be830e.png
+[17-03-2021 17:20:22] Checking 959ec670-c592-44c7-a71f-988cfa9793ad.png
+[17-03-2021 17:20:22] Checking 1272a33e-b4ae-43ce-a4b9-6da2c8affeb0.png
+[17-03-2021 17:20:22] Checking fc3db3de-0781-46c1-8b2d-a4a148be830e
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sprites/SPRchoice/layers/fc3db3de-0781-46c1-8b2d-a4a148be830e
+[17-03-2021 17:20:22] Checking 959ec670-c592-44c7-a71f-988cfa9793ad
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sprites/SPRchoice/layers/959ec670-c592-44c7-a71f-988cfa9793ad
+[17-03-2021 17:20:22] Checking 1272a33e-b4ae-43ce-a4b9-6da2c8affeb0
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sprites/SPRchoice/layers/1272a33e-b4ae-43ce-a4b9-6da2c8affeb0
+[17-03-2021 17:20:22] Checking d6870ada-5649-41fa-9ee6-ead2401e9ee5.png
+[17-03-2021 17:20:22] Checking d6870ada-5649-41fa-9ee6-ead2401e9ee5.png
+[17-03-2021 17:20:22] Checking d6870ada-5649-41fa-9ee6-ead2401e9ee5.png
+[17-03-2021 17:20:22] Checking SPRcursor.yy
+[17-03-2021 17:20:22] Parsing C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sprites/SPRcursor/SPRcursor.yy
+[17-03-2021 17:20:22] Reading C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sprites/SPRcursor/SPRcursor.yy
+[17-03-2021 17:20:22] Par: "folders/Sprites/UI Sprites" at dir: "C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sprites/SPRcursor/SPRcursor.yy"
+[17-03-2021 17:20:22] Found Sprite: SPRcursor
+[17-03-2021 17:20:22] Checking layers
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sprites/SPRcursor/layers
+[17-03-2021 17:20:22] Checking 04c0ec43-223a-41d0-871f-d48e65e5f1ac.png
+[17-03-2021 17:20:22] Checking 04c0ec43-223a-41d0-871f-d48e65e5f1ac
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sprites/SPRcursor/layers/04c0ec43-223a-41d0-871f-d48e65e5f1ac
+[17-03-2021 17:20:22] Checking 014ad960-adad-45a8-9834-bbd723fb3f59.png
+[17-03-2021 17:20:22] Checking SPRLoad.yy
+[17-03-2021 17:20:22] Parsing C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sprites/SPRLoad/SPRLoad.yy
+[17-03-2021 17:20:22] Reading C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sprites/SPRLoad/SPRLoad.yy
+[17-03-2021 17:20:22] Par: "folders/Sprites" at dir: "C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sprites/SPRLoad/SPRLoad.yy"
+[17-03-2021 17:20:22] Found Sprite: SPRLoad
+[17-03-2021 17:20:22] Checking layers
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sprites/SPRLoad/layers
+[17-03-2021 17:20:22] Checking b4a6e129-6a23-496a-b061-3cbe81614de2.png
+[17-03-2021 17:20:22] Checking b4a6e129-6a23-496a-b061-3cbe81614de2
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sprites/SPRLoad/layers/b4a6e129-6a23-496a-b061-3cbe81614de2
+[17-03-2021 17:20:22] Checking b8e05a72-2e37-44b8-9884-628c0490867c.png
+[17-03-2021 17:20:22] Checking SPRlogBox.yy
+[17-03-2021 17:20:22] Parsing C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sprites/SPRlogBox/SPRlogBox.yy
+[17-03-2021 17:20:22] Reading C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sprites/SPRlogBox/SPRlogBox.yy
+[17-03-2021 17:20:22] Par: "folders/Sprites/UI Sprites" at dir: "C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sprites/SPRlogBox/SPRlogBox.yy"
+[17-03-2021 17:20:22] Found Sprite: SPRlogBox
+[17-03-2021 17:20:22] Checking SPRblueTextBox.yy
+[17-03-2021 17:20:22] Trash file: SPRblueTextBox.yy, will be moved to ___yyp_maker_trash
+[17-03-2021 17:20:22] Checking layers
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sprites/SPRlogBox/layers
+[17-03-2021 17:20:22] Checking c52765b1-f896-4b91-a7a6-3d0614665b00.png
+[17-03-2021 17:20:22] Checking c52765b1-f896-4b91-a7a6-3d0614665b00
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sprites/SPRlogBox/layers/c52765b1-f896-4b91-a7a6-3d0614665b00
+[17-03-2021 17:20:22] Checking 1af70f6a-878e-47b7-8ce1-e4485c184a0b.png
+[17-03-2021 17:20:22] Checking SPROptions.yy
+[17-03-2021 17:20:22] Parsing C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sprites/SPROptions/SPROptions.yy
+[17-03-2021 17:20:22] Reading C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sprites/SPROptions/SPROptions.yy
+[17-03-2021 17:20:22] Par: "folders/Sprites" at dir: "C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sprites/SPROptions/SPROptions.yy"
+[17-03-2021 17:20:22] Found Sprite: SPROptions
+[17-03-2021 17:20:22] Checking layers
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sprites/SPROptions/layers
+[17-03-2021 17:20:22] Checking 6fdf1fdc-f35a-4113-b623-89d891e61402.png
+[17-03-2021 17:20:22] Checking 6fdf1fdc-f35a-4113-b623-89d891e61402
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sprites/SPROptions/layers/6fdf1fdc-f35a-4113-b623-89d891e61402
+[17-03-2021 17:20:22] Checking 2fa686dd-a33f-4ee4-bc53-495bf5b4bcae.png
+[17-03-2021 17:20:22] Checking SPRQuitSprite.yy
+[17-03-2021 17:20:22] Parsing C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sprites/SPRQuitSprite/SPRQuitSprite.yy
+[17-03-2021 17:20:22] Reading C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sprites/SPRQuitSprite/SPRQuitSprite.yy
+[17-03-2021 17:20:22] Par: "folders/Sprites" at dir: "C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sprites/SPRQuitSprite/SPRQuitSprite.yy"
+[17-03-2021 17:20:22] Found Sprite: SPRQuitSprite
+[17-03-2021 17:20:22] Checking layers
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sprites/SPRQuitSprite/layers
+[17-03-2021 17:20:22] Checking 000a42a3-78f9-4663-be06-6627745b4f92.png
+[17-03-2021 17:20:22] Checking 000a42a3-78f9-4663-be06-6627745b4f92
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sprites/SPRQuitSprite/layers/000a42a3-78f9-4663-be06-6627745b4f92
+[17-03-2021 17:20:22] Checking 7565e54e-1e4a-4282-bebe-2b63cba541d3.png
+[17-03-2021 17:20:22] Checking SPRtextInput.yy
+[17-03-2021 17:20:22] Parsing C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sprites/SPRtextInput/SPRtextInput.yy
+[17-03-2021 17:20:22] Reading C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sprites/SPRtextInput/SPRtextInput.yy
+[17-03-2021 17:20:22] Par: "folders/Sprites/UI Sprites" at dir: "C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sprites/SPRtextInput/SPRtextInput.yy"
+[17-03-2021 17:20:22] Found Sprite: SPRtextInput
+[17-03-2021 17:20:22] Checking layers
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sprites/SPRtextInput/layers
+[17-03-2021 17:20:22] Checking cb66b8b3-3e40-453c-bd2d-f85f25977e5d.png
+[17-03-2021 17:20:22] Checking cb66b8b3-3e40-453c-bd2d-f85f25977e5d
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sprites/SPRtextInput/layers/cb66b8b3-3e40-453c-bd2d-f85f25977e5d
+[17-03-2021 17:20:22] Checking 503fae96-f0c8-4364-b3ca-ac715c554edf.png
+[17-03-2021 17:20:22] Checking SPRtransBack.yy
+[17-03-2021 17:20:22] Parsing C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sprites/SPRtransBack/SPRtransBack.yy
+[17-03-2021 17:20:22] Reading C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sprites/SPRtransBack/SPRtransBack.yy
+[17-03-2021 17:20:22] Par: "folders/Sprites/UI Sprites" at dir: "C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sprites/SPRtransBack/SPRtransBack.yy"
+[17-03-2021 17:20:22] Found Sprite: SPRtransBack
+[17-03-2021 17:20:22] Checking layers
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sprites/SPRtransBack/layers
+[17-03-2021 17:20:22] Checking d3e657a1-94a2-4869-805f-882a16e0badd.png
+[17-03-2021 17:20:22] Checking d3e657a1-94a2-4869-805f-882a16e0badd
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sprites/SPRtransBack/layers/d3e657a1-94a2-4869-805f-882a16e0badd
+[17-03-2021 17:20:22] Checking 56c7dceb-c1ea-4603-a3e3-4a075592944a.png
+[17-03-2021 17:20:22] Checking SPR_DreamLilaFaceNormal.yy
+[17-03-2021 17:20:22] Parsing C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sprites/SPR_DreamLilaFaceNormal/SPR_DreamLilaFaceNormal.yy
+[17-03-2021 17:20:22] Reading C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sprites/SPR_DreamLilaFaceNormal/SPR_DreamLilaFaceNormal.yy
+[17-03-2021 17:20:22] Par: "folders/Sprites/Characters/Lila/face" at dir: "C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sprites/SPR_DreamLilaFaceNormal/SPR_DreamLilaFaceNormal.yy"
+[17-03-2021 17:20:22] Found Sprite: SPR_DreamLilaFaceNormal
+[17-03-2021 17:20:22] Checking layers
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sprites/SPR_DreamLilaFaceNormal/layers
+[17-03-2021 17:20:22] Checking acd048d5-dd51-43e2-bccd-53dc8c407cc0.png
+[17-03-2021 17:20:22] Checking acd048d5-dd51-43e2-bccd-53dc8c407cc0
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sprites/SPR_DreamLilaFaceNormal/layers/acd048d5-dd51-43e2-bccd-53dc8c407cc0
+[17-03-2021 17:20:22] Checking 9fe8276e-86e0-4a11-b115-331844398ba1.png
+[17-03-2021 17:20:22] Checking SPR_GAGirl.yy
+[17-03-2021 17:20:22] Parsing C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sprites/SPR_GAGirl/SPR_GAGirl.yy
+[17-03-2021 17:20:22] Reading C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sprites/SPR_GAGirl/SPR_GAGirl.yy
+[17-03-2021 17:20:22] Par: "folders/Sprites/Characters/GAGirl" at dir: "C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sprites/SPR_GAGirl/SPR_GAGirl.yy"
+[17-03-2021 17:20:22] Found Sprite: SPR_GAGirl
+[17-03-2021 17:20:22] Checking layers
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sprites/SPR_GAGirl/layers
+[17-03-2021 17:20:22] Checking 52616fc7-23d6-463b-82ed-3fd5f0ec2e83.png
+[17-03-2021 17:20:22] Checking 52616fc7-23d6-463b-82ed-3fd5f0ec2e83
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sprites/SPR_GAGirl/layers/52616fc7-23d6-463b-82ed-3fd5f0ec2e83
+[17-03-2021 17:20:22] Checking 07493cbf-bae3-46a0-bea9-21988e3e1ae0.png
+[17-03-2021 17:20:22] Checking SPR_LilaFingertent.yy
+[17-03-2021 17:20:22] Parsing C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sprites/SPR_LilaFingertent/SPR_LilaFingertent.yy
+[17-03-2021 17:20:22] Reading C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sprites/SPR_LilaFingertent/SPR_LilaFingertent.yy
+[17-03-2021 17:20:22] Par: "folders/Sprites/Characters/Lila/body" at dir: "C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sprites/SPR_LilaFingertent/SPR_LilaFingertent.yy"
+[17-03-2021 17:20:22] Found Sprite: SPR_LilaFingertent
+[17-03-2021 17:20:22] Checking layers
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sprites/SPR_LilaFingertent/layers
+[17-03-2021 17:20:22] Checking 6d543381-f7e2-46df-be9a-0ddca0915a33.png
+[17-03-2021 17:20:22] Checking 6d543381-f7e2-46df-be9a-0ddca0915a33
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sprites/SPR_LilaFingertent/layers/6d543381-f7e2-46df-be9a-0ddca0915a33
+[17-03-2021 17:20:22] Checking ab5d8c2e-a2e5-46b1-beb8-e9bfce5101da.png
+[17-03-2021 17:20:22] Checking testSprite.yy
+[17-03-2021 17:20:22] Parsing C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sprites/testSprite/testSprite.yy
+[17-03-2021 17:20:22] Reading C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sprites/testSprite/testSprite.yy
+[17-03-2021 17:20:22] Par: "folders/Sprites" at dir: "C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sprites/testSprite/testSprite.yy"
+[17-03-2021 17:20:22] Found Sprite: testSprite
+[17-03-2021 17:20:22] Checking layers
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sprites/testSprite/layers
+[17-03-2021 17:20:22] Checking 728fd8eb-ae1b-43ab-ba48-0bdc85997fc2.png
+[17-03-2021 17:20:22] Checking 728fd8eb-ae1b-43ab-ba48-0bdc85997fc2
+[17-03-2021 17:20:22] Directory: C:/Users/Michael/Documents/bigOlTest/DatingSim-for-v2.3-master/sprites/testSprite/layers/728fd8eb-ae1b-43ab-ba48-0bdc85997fc2
+[17-03-2021 17:20:22] Checking 89395fdc-bd14-47de-8b89-b241144a79d8.png
+[17-03-2021 17:20:22] Moving files to trash...
+[17-03-2021 17:20:22] Files yeeted successfully!
+[17-03-2021 17:20:22] Generating YYP...
+[17-03-2021 17:20:22] DatingSim-for-v2.3-master.yyp created successfully!

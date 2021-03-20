@@ -1,0 +1,14 @@
+#
+exhaustchoice
+Get small snowball?
+godkingtest_two.txt
+{GOD}flag_small_snowball1LOCK_small_LOCK
+Get medium snowball?
+godkingtest_two.txt
+{GOD}flag_medium_snowballKEY_small_KEY1LOCK_medium_LOCK
+Get large snowball?
+godkingtest_two.txt
+{GOD}flag_large_snowballKEY_medium_KEY
+Build Snowman?
+godkingtest_three.txt
+{GOD}target_flag_built_snowman

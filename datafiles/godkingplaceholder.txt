@@ -1,0 +1,13 @@
+Your God King: Oops
+Your God King: It seems that this group can't be chosen yet
+Your God King: But never fret
+Your God King: One day we will all be chosen!
+Your God King: Rejoice!
+Your God King: Ahem anyway
+Your God King: Let's go back to the choosing. Shall we?
+Your God King: 3
+Your God King: 2
+Your God King: 1
+#
+goto
+CharacterIntroductions.txt

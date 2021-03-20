@@ -1,0 +1,5 @@
+PC: “Thanks for telling me all this! I’ve always wondered how planes work, but never got the chance to learn.”
+Lila: “Of course, PenisChamp. Oh my God, we’re late to class! Why didn’t you say anything, baka?”
+#
+goto
+prom_lila_tutorial.txt

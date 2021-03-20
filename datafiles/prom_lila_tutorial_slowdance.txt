@@ -1,0 +1,26 @@
+PC: "How do we--?"
+Lila: "Ugh, you're hopeless! Just take this hand--No, not that one, obviously, your other hand, Baka! 
+Lila: God, haven't you ever seen a movie PenisChamp?"
+PC: "Of course I have, I'm just--I'm nervous, that's all."
+Lila: "Well, don't be. What do you have to be nervous about?"
+PC: "I don't know. I'm just... not used to this sort of thing, that's all."
+Lila: "Get used to it! We're dancing. Put this hand--right here, on my waist, and I put my hand on your shoulder, like this. Now, just hold my hand kinda like this--no, don't squeeze, just let it sit there. 
+Lila: No, not totally limp, just gentle, like--Yes, there you go. Was that so hard?"
+PC: "Yes."
+Lila: "Ugh. Just... shut up and dance."
+[You and Lila awkwardly sway to the music for a few seconds]
+PC: "So..."
+Lila: "Gosh, PenisChamp-baka, haven't you ever talked to a girl before?"
+PC: "Not like this, I haven't."
+Lila: "All you have to do is say something."
+#
+choicecreate
+Who's that girl you made me ask to prom?
+prom_lila_tutorial_SC.txt
+flag_SC
+Why didn't you have a date to prom?
+prom_lila_tutorial_slowDanceTalk.txt
+flag_talk
+META_DATA
+Day:???
+Group:Tutorial

@@ -1,0 +1,36 @@
+Lila: "Didn't I already tell you? I could have gotten one!"
+PC: "Isn't waiting until a week before leaving it 'til the last minute?"
+Lila: "You're one to talk! Didn't you do the exact same?"
+PC: "Yeah, but that's normal for me. You're not usually the type to do that sort of thing."
+Lila: "Well, to answer your question, I'm not really sure. I guess I was waiting for the right person, HONORIFIC PLACEHOLDER YOU'D BETTER NOT FORGET TO REPLACE THIS. 
+PC: "Uh...Did you just--"
+Lila: "What?"
+PC: "Nothing... it's just--I'm not used to hearing you be so affectionate."
+Lila: "PenisChamp-baka, why do you have to make everything so weird?"
+PC: "I wasn't trying to, I--I was surprised, that's all."
+Lila: "Well, stop it. Is it really that shocking when I'm nice to you? Jeez, PenisChamp, we've been friends forever! Do you really think that lowly of me?"
+PC: "No, of course not. I'm sorry, Lila, you're right. I guess it really shouldn't be that unusual for me to hear you be familiar."
+Lila: "Good. You better get used to it, because--because..."
+PC: "Lila?"
+Lila: "Because I want to spend more time with you!"
+PC: "What?!"
+Lila: "We've been friends forever, PenisChamp-chan, and yet I can feel us drifting away. I mean, it's senior prom! If we hadn't gone together, do you honestly think we'd talk after graduation?"
+PC: "Of course we would, Lila."
+Lila: "I'm not so sure. You know, I was so happy when I heard you'd be transferring to Inspire. I thought--I thought we'd be close, just like when we were kids."
+PC: "Lila, I--"
+Lila: "Let me finish, PenisChamp. I thought we'd be good friends again, but that didn't happen. Even though we walked to school together everyday, it didn't feel like before. It felt like there was always something standing between us. And now, we're graduating and I--I'm afraid."
+PC: "Afraid?"
+Lila: "Afraid we'll drift even further apart. Am I even going to see you again after tonight? Will we still talk this summer? After this summer?"
+PC: "Is this why you wanted to go to prom with me?"
+Lila: "I--yes, PenisChamp, it is. I'm sorry for embarrassing you, for making you get rejected. I just didn't know how to get close to you again."
+#
+choicecreate
+Thank you for sharing this side of you with me
+prom_lila_tutorial_heartToheart.txt
+[HTH]text_flag_TY
+I feel the same way
+prom_lila_tutorial_heartToheart.txt
+[HTH]text_flag_feelSame
+META_DATA
+Day:???
+Group:Tutorial

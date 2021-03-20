@@ -1,0 +1,10 @@
+Door King:Hello, sorry I've decided to trap you in the door dimension
+Door King:Cause I want to test out a crazy new concept where doors actually have keys to them
+Door King:I won't let you leave until you've found all the key pieces and open the exit door
+Door King:Ok well uh, get started
+#
+goto
+RGBinstructions.txt
+META_DATA
+Day:???
+Group:Door Dimension

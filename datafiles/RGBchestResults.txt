@@ -1,0 +1,11 @@
+[CHEST]flag_red_KEY_RGB_KEYYou open the chest
+[CHEST]flag_red_KEY_RGB_KEYInside there is a piece of a key
+[CHEST]flag_red_KEY_RGB_KEYThis must go to the door to exit this dimension!
+[CHEST]flag_nokeyYou decide it's too risky to open random chests
+[CHEST]flag_nokeyTime to go back
+#
+goto
+RGBinstructions.txt
+META_DATA
+Day:???
+Group:Door Dimension

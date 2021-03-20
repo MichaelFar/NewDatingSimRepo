@@ -1,0 +1,17 @@
+#
+choicecreate
+General Aviation?
+regimeResult.txt
+[REGIME]text_flag_GA_KEY_regime_KEY
+Subsonic?
+regimeResult.txt
+[REGIME]text_flag_SS_KEY_regime_KEY
+Hypersonic?
+regimeResult.txt
+[REGIME]text_flag_HS_KEY_regime_KEY
+I think we should get to class...
+aerodynamics_you_fool.txt
+[NEXT]text_flag_youdamnfool
+Thanks for telling me all this!
+regimeEnd.txt
+flag_3LOCK_regime_LOCK
