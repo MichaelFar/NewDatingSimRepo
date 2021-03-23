@@ -7,8 +7,9 @@ blinkSpeed = 15;
 prompt = "";
 width = sprite_width;
 height = sprite_height;
-x_position = sprite_get_xoffset(sprite_index);
-y_position = sprite_get_yoffset(sprite_index);
+//x_position = sprite_get_xoffset(sprite_index);
+//y_position = sprite_get_yoffset(sprite_index);
+baseHeight = string_height("Input text here");
 
 alarm[0] = blinkSpeed;
 show_debug_message("Current x_position in setname is " + string(x)); 

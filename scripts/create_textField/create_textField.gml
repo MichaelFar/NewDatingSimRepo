@@ -9,8 +9,10 @@ function create_textField(_promptText, _x, _y) {
 	with (_textField)
 	{
 		prompt = _promptText;
-		x_position = _x;
-		y_position = _y;
+		x = _x;
+		y = _y;
+		x_position = x;
+		y_position = y;
 	}
 
 	return _textField;

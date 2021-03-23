@@ -2,8 +2,8 @@
   "isDnD": false,
   "isCompatibility": false,
   "parent": {
-    "name": "Main Menu Scripts",
-    "path": "folders/Scripts/Extensions/ScriptsButItClonedIDKwhy/Main Menu Scripts.yy",
+    "name": "Save File Handlers",
+    "path": "folders/Scripts/Extensions/ScriptsButItClonedIDKwhy/Main Game Handlers/Save File Handlers.yy",
   },
   "resourceVersion": "1.0",
   "name": "save_settings",
