@@ -10,4 +10,4 @@ show_debug_message("The size of this two dimensional array is " + string(array_l
 */
 //var index = asset_get_index("LilaGetUp_3rd_EDITED_")
 //create_bark(index);
-create_charBody(room_width / 2, room_height / 2, SPR_LilaFingertent, SPR_DreamLilaFaceNormal);
+//create_charBody(room_width / 2, room_height / 2, SPR_LilaFingertent, SPR_DreamLilaFaceNormal);

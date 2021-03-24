@@ -2,7 +2,7 @@
 // You can write your code in this editor
 show_debug_message("We are now in the main game");
 /// @description Insert description here
-//room_goto(RMtestRoom);
+room_goto(RMtestRoom);
 script_execute(branchFileUnpacker);
 metaString = get_meta();
 if(global.newGame && room == RMmainGame)

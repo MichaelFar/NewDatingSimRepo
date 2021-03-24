@@ -24,8 +24,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Test Room Objects",
+    "path": "folders/Objects/Test Room Objects.yy",
   },
   "resourceVersion": "1.0",
   "name": "oTestRoomManager",
