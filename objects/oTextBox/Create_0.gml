@@ -4,6 +4,7 @@ text = "I hate mondays ";
 objectType = "TB";
 index = 0;
 k = 0;
+b = 0;
 click = false;
 currentArray = 0;
 name = 0;
