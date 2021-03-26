@@ -24,12 +24,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"dce5b086-4a25-4572-ad22-352f103ec2a6","path":"sprites/SlicedBox/SlicedBox.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"dce5b086-4a25-4572-ad22-352f103ec2a6","path":"sprites/SlicedBox/SlicedBox.yy",},"LayerId":{"name":"4d6035e6-6944-48cb-952f-b1fd8089f6e1","path":"sprites/SlicedBox/SlicedBox.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"SlicedBox","path":"sprites/SlicedBox/SlicedBox.yy",},"resourceVersion":"1.0","name":"dce5b086-4a25-4572-ad22-352f103ec2a6","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"dce5b086-4a25-4572-ad22-352f103ec2a6","path":"sprites/SlicedChoiceBox/SlicedChoiceBox.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"dce5b086-4a25-4572-ad22-352f103ec2a6","path":"sprites/SlicedChoiceBox/SlicedChoiceBox.yy",},"LayerId":{"name":"4d6035e6-6944-48cb-952f-b1fd8089f6e1","path":"sprites/SlicedChoiceBox/SlicedChoiceBox.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"SlicedChoiceBox","path":"sprites/SlicedChoiceBox/SlicedChoiceBox.yy",},"resourceVersion":"1.0","name":"dce5b086-4a25-4572-ad22-352f103ec2a6","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"SlicedBox","path":"sprites/SlicedBox/SlicedBox.yy",},
+    "spriteId": {"name":"SlicedChoiceBox","path":"sprites/SlicedChoiceBox/SlicedChoiceBox.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 15.0,
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"5f986511-ad00-4410-9e8d-6a67f2aacd32","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"dce5b086-4a25-4572-ad22-352f103ec2a6","path":"sprites/SlicedBox/SlicedBox.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"55702f70-2df0-48ed-a043-c50da012b10b","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"dce5b086-4a25-4572-ad22-352f103ec2a6","path":"sprites/SlicedChoiceBox/SlicedChoiceBox.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -58,9 +58,9 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"SlicedBox","path":"sprites/SlicedBox/SlicedBox.yy",},
+    "parent": {"name":"SlicedChoiceBox","path":"sprites/SlicedChoiceBox/SlicedChoiceBox.yy",},
     "resourceVersion": "1.3",
-    "name": "SlicedBox",
+    "name": "SlicedChoiceBox",
     "tags": [],
     "resourceType": "GMSequence",
   },
@@ -72,7 +72,7 @@
     "path": "folders/Sprites/UI Sprites.yy",
   },
   "resourceVersion": "1.0",
-  "name": "SlicedBox",
+  "name": "SlicedChoiceBox",
   "tags": [],
   "resourceType": "GMSprite",
 }

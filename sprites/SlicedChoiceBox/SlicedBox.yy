@@ -60,7 +60,7 @@
     "eventStubScript": null,
     "parent": {"name":"SlicedBox","path":"sprites/SlicedBox/SlicedBox.yy",},
     "resourceVersion": "1.3",
-    "name": "SlicedBox",
+    "name": "",
     "tags": [],
     "resourceType": "GMSequence",
   },

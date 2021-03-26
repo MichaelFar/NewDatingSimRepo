@@ -73,10 +73,6 @@ function create_TB(_branches, _index, _branchAddress, _script, _flag) {
 					
 				}
 			}
-		}
-			script = _script;
-			currentArray = _branches;
-			index = global.newFlagIndex;
 			show_debug_message("textHistoryTracker is now: " + string(global.textHistoryTracker));
 			if(global.textHistoryTracker != 0)
 			{
@@ -100,6 +96,11 @@ function create_TB(_branches, _index, _branchAddress, _script, _flag) {
 				}
 			}
 			show_debug_message("Current index at the end of create_TB " + string(index));
+		}
+			script = _script;
+			currentArray = _branches;
+			index = global.newFlagIndex;
+			
 	}
 
 	return _textBox;

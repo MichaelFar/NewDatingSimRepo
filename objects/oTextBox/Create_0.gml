@@ -12,6 +12,7 @@ hasName = false;
 boxWidth = sprite_width;
 boxHeight = sprite_height;
 hover = 0;
+hasBold = false;
 textType = "";
 charCount = 0;
 typeSpeed = global.textSpeed;

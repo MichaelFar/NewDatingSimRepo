@@ -173,11 +173,11 @@ function instruction_parser(_instructions) {
 				if(_needsKey[i])
 				{
 					show_debug_message("_hasKey is " + string(_hasKey));
-					create_choice(i, _labels[i], _destinations[i], on_click_TB, (room_width / 2) , room_height / 4 + (140 * i), _flags, false, !_hasKey);
+					create_choice(i, _labels[i], _destinations[i], on_click_TB, (room_width / 2) - room_width / 12 , room_height / 4 + (140 * i), _flags, false, !_hasKey);
 				}
 				else
 				{
-					create_choice(i, _labels[i], _destinations[i], on_click_TB, (room_width / 2) , room_height / 4 + (140 * i), _flags, false, _needsKey[i]);
+					create_choice(i, _labels[i], _destinations[i], on_click_TB, (room_width / 2) - room_width / 12 , room_height / 4 + (140 * i), _flags, false, _needsKey[i]);
 				}
 				show_debug_message(_labels[i]);
 			}
@@ -403,7 +403,7 @@ function instruction_parser(_instructions) {
 			&& string_pos("ULTRA",_flags[i]) == 0)
 			&& !_wasClicked[i])
 			{
-				//_choiceID[i] = create_choice(i, _labels[i], _destinations[i], on_click_TB, (room_width / 2) , room_height / 4 + (140 * i), _flags, _wasClicked[i], false);
+				
 				show_debug_message("The flag of choice " + string(i + 1) + " is " + _flags[i])
 			
 				if(!_needsKey[i])
@@ -420,9 +420,7 @@ function instruction_parser(_instructions) {
 			&& !_NOaccessUltraTarget 
 			&& string_pos("ULTRA_NOCHOICE",_flags[i]) == 0)
 			{
-				//show_debug_message("ULTRA found and _NoaccessUltraTarget is false");
-				//_choiceID[i] = create_choice(i, _labels[i], _destinations[i], on_click_TB, (room_width / 2) , room_height / 4 + (140 * i), _flags, _wasClicked[i], false);
-				//ds_list_add(_list.list, [_labels[i],-1,[]]);
+				
 			
 				if(!_needsKey[i])
 				{
@@ -438,8 +436,8 @@ function instruction_parser(_instructions) {
 			&& _NOaccessUltraTarget 
 			&& string_pos("ULTRA_NOCHOICE",_flags[i]) == 0)
 			{
-				//_choiceID[i] = create_choice(i, _labels[i], _destinations[i], on_click_TB, (room_width / 2) , room_height / 4 + (140 * i), _flags, _wasClicked[i], true);
-				//ds_list_add(_list.list, [_labels[i],-1,[]]);
+				
+				
 				if(!_needsKey[i])
 				{
 					global.choiceLabels[i] = _labels[i];

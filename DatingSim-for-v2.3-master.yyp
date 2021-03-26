@@ -104,6 +104,7 @@
     {"id":{"name":"SPR_DreamLilaFaceNormalOld","path":"sprites/SPR_DreamLilaFaceNormalOld/SPR_DreamLilaFaceNormalOld.yy",},"order":0,},
     {"id":{"name":"SPR_GAGirl","path":"sprites/SPR_GAGirl/SPR_GAGirl.yy",},"order":0,},
     {"id":{"name":"SPR_LilaFingertent","path":"sprites/SPR_LilaFingertent/SPR_LilaFingertent.yy",},"order":1,},
+    {"id":{"name":"SlicedChoiceBox","path":"sprites/SlicedChoiceBox/SlicedChoiceBox.yy",},"order":9,},
     {"id":{"name":"testSprite","path":"sprites/testSprite/testSprite.yy",},"order":6,},
   ],
   "Options": [

@@ -1,3 +1,4 @@
+MazeWithKeys.txt
 FirstScene.txt
 prom_lila_tutorial_afterProm.txt
 FirstScene_two.txt
@@ -18,7 +19,6 @@ RGBinstructions.txt
 RGBresults.txt
 RGBredDoor.txt
 RGBchestResults.txt
-MazeWithKeys.txt
 MazeInstructions.txt
 MazeLost.txt
 MazeLookAround.txt
