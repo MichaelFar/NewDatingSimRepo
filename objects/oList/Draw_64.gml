@@ -42,7 +42,7 @@ for (i = 0; i < _size; i++)
 	{
 		draw_set_color(c_red);
 	}
-	if(_name == "ARE YOU SURE?")
+	if(_name == "ARE YOU SURE?" || _name == "ARE YOU SURE YOU WISH TO OVERRIDE THIS SAVE?" || _name == "LOAD THIS SAVE?")
 	{
 		draw_set_color(c_black);
 	}

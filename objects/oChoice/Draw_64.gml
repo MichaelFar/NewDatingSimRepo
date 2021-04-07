@@ -3,7 +3,7 @@
 stringHeight = string_height(text);
 stringWidth = string_width(text);
 
-draw_set_font(textBoxFont);
+draw_set_font(fnt_namePlate);
 
 if(currentSprite != 0)
 {

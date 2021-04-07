@@ -254,16 +254,30 @@ for (var i = 0; i < _size; i++)
 					*/
 					if(type == LIST_TYPE.LOAD_MENU)
 					{
+						
+						instance_destroy();
+						var _currentList = create_list(room_width / 2 - (_totalWidth / 2), room_height / 2 - (_totalHeight / 2), _totalWidth, _totalHeight, LIST_TYPE.LOAD_CONFIRM);
+						_currentList.saveName = global.saveGameBuffer;
+						_currentList.saveIndex = i;
+						
+						/*
 						instance_destroy();
 						global.newGame = false;
 						room_goto(RMmainGame);
+						*/
 					}
 					else
 					{
+						instance_destroy();
+						var _currentList = create_list(room_width / 2 - (_totalWidth / 2), room_height / 2 - (_totalHeight / 2), _totalWidth, _totalHeight, LIST_TYPE.OVERRIDE_CONFIRM);
+						_currentList.saveName = metaString;
+						_currentList.saveIndex = i;
+						/*
 						global.savedGames[i] = save_game(metaString);
 						_arr[@PR.NAME] = global.savedGames[i];
 						global.numSaves++;
 						script_execute(saveStorage);
+						*/
 					}
 				break;
 				//SAVE MENU, only allows for ~17 saves
@@ -335,19 +349,65 @@ for (var i = 0; i < _size; i++)
 				//YES & NO prompt
 				
 				case "Yes":
-					global.prompt.hasAsked = true;
-					global.prompt.answer = true;
-					instance_destroy();
-					create_list(room_width / 2 - (_totalWidth / 2), room_height / 2 - (_totalHeight / 2), _totalWidth, _totalHeight, LIST_TYPE.GROUP_CHOICE);
-					shouldBreak = true;
+					if(type == LIST_TYPE.ARE_YOU_SURE)
+					{
+						global.prompt.hasAsked = true;
+						global.prompt.answer = true;
+						instance_destroy();
+						create_list(room_width / 2 - (_totalWidth / 2), room_height / 2 - (_totalHeight / 2), _totalWidth, _totalHeight, LIST_TYPE.GROUP_CHOICE);
+						shouldBreak = true;
+					}
+					else if(type == LIST_TYPE.OVERRIDE_CONFIRM)
+					{
+						instance_destroy();
+						global.savedGames[saveIndex] = save_game(metaString);
+						global.numSaves++;
+						var _currentList = create_list(room_width / 2 - (300 / 2), room_height / 2 - (240 / 2), 300, 240, LIST_TYPE.SAVE_MENU);
+						//_currentList.hasSaved = true;
+						
+						global.inPauseMenu = true;
+						/*
+						
+						global.savedGames[i] = save_game(metaString);
+						_arr[@PR.NAME] = global.savedGames[i];
+						global.numSaves++;
+						script_execute(saveStorage);
+						*/
+						
+					}
+					else if(type == LIST_TYPE.LOAD_CONFIRM)
+					{
+						instance_destroy();
+						global.saveGameBuffer = saveName;
+						global.newGame = false;
+						room_goto(RMmainGame);
+						
+					}
 				break;
 				
 				case "No":
-					global.prompt.hasAsked = true;
-					global.prompt.answer = false;
-					instance_destroy();
-					create_list(room_width / 2 - (_totalWidth / 2), room_height / 2 - (_totalHeight / 2), _totalWidth, _totalHeight, LIST_TYPE.GROUP_CHOICE);
-					shouldBreak = true;
+					if(type == LIST_TYPE.ARE_YOU_SURE)
+					{
+						global.prompt.hasAsked = true;
+						global.prompt.answer = false;
+						instance_destroy();
+						create_list(room_width / 2 - (_totalWidth / 2), room_height / 2 - (_totalHeight / 2), _totalWidth, _totalHeight, LIST_TYPE.GROUP_CHOICE);
+						shouldBreak = true;
+					}
+					else if(type == LIST_TYPE.OVERRIDE_CONFIRM || type == LIST_TYPE.LOAD_CONFIRM)
+					{
+						instance_destroy();
+						if(type == LIST_TYPE.OVERRIDE_CONFIRM)
+						{
+							create_list(room_width / 2 - (300 / 2), room_height / 2 - (240 / 2), 300, 240, LIST_TYPE.SAVE_MENU);
+						}
+						else
+						{
+							create_list(room_width / 2 - (300 / 2), room_height / 2 - (240 / 2), 300, 240, LIST_TYPE.LOAD_MENU);
+						}
+						global.inPauseMenu = true;
+						//shouldBreak = true;
+					}
 				break;
 				
 			}

@@ -74,6 +74,22 @@ function create_list(_x, _y, _width, _height, _type) {
 				ds_list_add(list, ["No",-1,[]])
 			
 			break;
+			
+			case LIST_TYPE.OVERRIDE_CONFIRM:
+			
+				ds_list_add(list, ["ARE YOU SURE YOU WISH TO OVERRIDE THIS SAVE?",-1,[]]);
+				ds_list_add(list, ["Yes",-1,[]]);
+				ds_list_add(list, ["No",-1,[]])
+			
+			break;
+			
+			case LIST_TYPE.LOAD_CONFIRM:
+			
+				ds_list_add(list, ["LOAD THIS SAVE?",-1,[]]);
+				ds_list_add(list, ["Yes",-1,[]]);
+				ds_list_add(list, ["No",-1,[]])
+			
+			break;
 		
 		
 		}

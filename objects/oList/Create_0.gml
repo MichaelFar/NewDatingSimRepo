@@ -5,7 +5,9 @@ height = 600;
 
 hasDestroyed = false;
 
-
+hasSaved = false;
+saveIndex = 0;
+saveName = "";
 
 global.hasRun = false;
 metaString = "";
