@@ -67,9 +67,10 @@
   "layers": [
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"32b89271-f60b-40f2-94b1-d2f53acafa7c","tags":[],"resourceType":"GMImageLayer",},
   ],
+  "nineSlice": null,
   "parent": {
     "name": "face",
-    "path": "folders/Sprites/Characters/Lila/face.yy",
+    "path": "folders/Sprites/Characters/Lila/armscrossed/face.yy",
   },
   "resourceVersion": "1.0",
   "name": "SPR_LilaDreamFaceClosed_ArmsCrossed",

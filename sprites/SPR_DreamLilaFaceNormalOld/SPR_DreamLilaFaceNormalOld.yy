@@ -67,9 +67,10 @@
   "layers": [
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"9fe8276e-86e0-4a11-b115-331844398ba1","tags":[],"resourceType":"GMImageLayer",},
   ],
+  "nineSlice": null,
   "parent": {
     "name": "face",
-    "path": "folders/Sprites/Characters/Lila/face.yy",
+    "path": "folders/Sprites/Characters/Lila/armscrossed/face.yy",
   },
   "resourceVersion": "1.0",
   "name": "SPR_DreamLilaFaceNormalOld",
