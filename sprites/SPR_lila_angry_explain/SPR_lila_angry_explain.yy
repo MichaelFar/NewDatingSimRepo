@@ -9,8 +9,8 @@
   "swfPrecision": 2.525,
   "bbox_left": 1161,
   "bbox_right": 1269,
-  "bbox_top": 181,
-  "bbox_bottom": 266,
+  "bbox_top": 180,
+  "bbox_bottom": 265,
   "HTile": false,
   "VTile": false,
   "For3D": false,
@@ -24,12 +24,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"76025a82-9536-4aa4-bfa5-00cbf2c86a22","path":"sprites/SPR_lila_angry_crossed/SPR_lila_angry_crossed.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"76025a82-9536-4aa4-bfa5-00cbf2c86a22","path":"sprites/SPR_lila_angry_crossed/SPR_lila_angry_crossed.yy",},"LayerId":{"name":"fceb088c-9fd2-43f6-b1fe-b8ad23bc06b4","path":"sprites/SPR_lila_angry_crossed/SPR_lila_angry_crossed.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"SPR_lila_angry_crossed","path":"sprites/SPR_lila_angry_crossed/SPR_lila_angry_crossed.yy",},"resourceVersion":"1.0","name":"76025a82-9536-4aa4-bfa5-00cbf2c86a22","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"3e94fbf3-8d7d-4d9b-9c59-05a49c377e3c","path":"sprites/SPR_lila_angry_explain/SPR_lila_angry_explain.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"3e94fbf3-8d7d-4d9b-9c59-05a49c377e3c","path":"sprites/SPR_lila_angry_explain/SPR_lila_angry_explain.yy",},"LayerId":{"name":"d7a0edcf-ddb0-4d76-98ca-044a6aaebb46","path":"sprites/SPR_lila_angry_explain/SPR_lila_angry_explain.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"SPR_lila_angry_explain","path":"sprites/SPR_lila_angry_explain/SPR_lila_angry_explain.yy",},"resourceVersion":"1.0","name":"3e94fbf3-8d7d-4d9b-9c59-05a49c377e3c","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"SPR_lila_angry_crossed","path":"sprites/SPR_lila_angry_crossed/SPR_lila_angry_crossed.yy",},
+    "spriteId": {"name":"SPR_lila_angry_explain","path":"sprites/SPR_lila_angry_explain/SPR_lila_angry_explain.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"2b09ce74-5a8f-4898-9f51-5bb30483e98b","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"76025a82-9536-4aa4-bfa5-00cbf2c86a22","path":"sprites/SPR_lila_angry_crossed/SPR_lila_angry_crossed.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"4ca29e41-8ea7-42b2-bcf1-5a238dedc4a6","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"3e94fbf3-8d7d-4d9b-9c59-05a49c377e3c","path":"sprites/SPR_lila_angry_explain/SPR_lila_angry_explain.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -58,22 +58,22 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"SPR_lila_angry_crossed","path":"sprites/SPR_lila_angry_crossed/SPR_lila_angry_crossed.yy",},
+    "parent": {"name":"SPR_lila_angry_explain","path":"sprites/SPR_lila_angry_explain/SPR_lila_angry_explain.yy",},
     "resourceVersion": "1.3",
-    "name": "SPR_lila_angry_crossed",
+    "name": "SPR_lila_angry_explain",
     "tags": [],
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"fceb088c-9fd2-43f6-b1fe-b8ad23bc06b4","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"d7a0edcf-ddb0-4d76-98ca-044a6aaebb46","tags":[],"resourceType":"GMImageLayer",},
   ],
   "nineSlice": null,
   "parent": {
-    "name": "face",
-    "path": "folders/Sprites/Characters/Lila/armscrossed/face.yy",
+    "name": "faces",
+    "path": "folders/Sprites/Characters/Lila/explain/faces.yy",
   },
   "resourceVersion": "1.0",
-  "name": "SPR_lila_angry_crossed",
+  "name": "SPR_lila_angry_explain",
   "tags": [],
   "resourceType": "GMSprite",
 }

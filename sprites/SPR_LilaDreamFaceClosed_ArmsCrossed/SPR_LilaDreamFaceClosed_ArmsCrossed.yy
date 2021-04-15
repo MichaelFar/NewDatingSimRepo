@@ -69,8 +69,8 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "armscrossed",
-    "path": "folders/Sprites/Characters/Lila/armscrossed.yy",
+    "name": "face",
+    "path": "folders/Sprites/Characters/Lila/armscrossed/face.yy",
   },
   "resourceVersion": "1.0",
   "name": "SPR_LilaDreamFaceClosed_ArmsCrossed",
