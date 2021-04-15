@@ -67,9 +67,10 @@
   "layers": [
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"31487ec6-4785-4164-8572-b3a4a47ed3c4","tags":[],"resourceType":"GMImageLayer",},
   ],
+  "nineSlice": null,
   "parent": {
-    "name": "face",
-    "path": "folders/Sprites/Characters/Lila/face.yy",
+    "name": "armscrossed",
+    "path": "folders/Sprites/Characters/Lila/armscrossed.yy",
   },
   "resourceVersion": "1.0",
   "name": "SPR_BoringNormalFace_ArmsCrossed",
