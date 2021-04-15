@@ -64,8 +64,6 @@ if(array_length(global.currentSettings) < _size && type == LIST_TYPE.SETTINGS)
 	}
 }
 
-
-
 for (var i = 0; i < _size; i++)
 {
 	if(global.prompt.hasAsked && global.prompt.answer && type == LIST_TYPE.GROUP_CHOICE)
