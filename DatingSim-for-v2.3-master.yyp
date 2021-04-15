@@ -5,6 +5,7 @@
     {"id":{"name":"fnt_main","path":"fonts/fnt_main/fnt_main.yy",},"order":1,},
     {"id":{"name":"fnt_namePlate","path":"fonts/fnt_namePlate/fnt_namePlate.yy",},"order":2,},
     {"id":{"name":"fnt_prompt","path":"fonts/fnt_prompt/fnt_prompt.yy",},"order":3,},
+    {"id":{"name":"Note2","path":"notes/Note2/Note2.yy",},"order":1,},
     {"id":{"name":"textBoxFont","path":"fonts/textBoxFont/textBoxFont.yy",},"order":4,},
     {"id":{"name":"godthisisapain","path":"notes/godthisisapain/godthisisapain.yy",},"order":0,},
     {"id":{"name":"oButton","path":"objects/oButton/oButton.yy",},"order":0,},
@@ -214,7 +215,7 @@
     {"CopyToMask":-1,"filePath":"datafiles","resourceVersion":"1.0","name":"aerodynamics_wiki.txt","resourceType":"GMIncludedFile",},
   ],
   "MetaData": {
-    "IDEVersion": "2.3.1.542",
+    "IDEVersion": "2.3.2.558",
   },
   "resourceVersion": "1.4",
   "name": "DatingSim-for-v2.3-master",
