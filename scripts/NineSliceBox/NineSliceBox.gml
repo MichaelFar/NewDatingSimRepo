@@ -56,7 +56,7 @@ function NineSliceBox(_sprite, _x1, _y1, _x2, _y2) {
 
 
 
-
+	return _rows;
 
 
 

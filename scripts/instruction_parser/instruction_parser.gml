@@ -67,7 +67,7 @@ function instruction_parser(_instructions) {
 	var i = 0; 
 	var j = 0;
 	var _numDestinations = 0;
-
+	
 	var _destinations = 0;
 	_destinations[0] = 0;
 	var _labels = 0;
@@ -173,14 +173,19 @@ function instruction_parser(_instructions) {
 				if(_needsKey[i])
 				{
 					show_debug_message("_hasKey is " + string(_hasKey));
-					create_choice(i, _labels[i], _destinations[i], on_click_TB, (room_width / 2) - room_width / 12 , room_height / 4 + (140 * i), _flags, false, !_hasKey);
+					_choiceID[i] = create_choice(i, _labels[i], _destinations[i], on_click_TB, (room_width / 2) - room_width / 12 , room_height / 4 + (140 * i), _flags, false, !_hasKey);
+					_choiceID[i].arrayOfChoices = _choiceID;
 				}
 				else
 				{
-					create_choice(i, _labels[i], _destinations[i], on_click_TB, (room_width / 2) - room_width / 12 , room_height / 4 + (140 * i), _flags, false, _needsKey[i]);
+					_choiceID[i] = create_choice(i, _labels[i], _destinations[i], on_click_TB, (room_width / 2) - room_width / 12 , room_height / 4 + (140 * i), _flags, false, _needsKey[i]);
+					_choiceID[i].arrayOfChoices = _choiceID;
 				}
+				
+				
 				show_debug_message(_labels[i]);
 			}
+			
 			
 	}
 	else if(_instructions[global.currentBranch][2] == "goto") 
