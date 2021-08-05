@@ -1,5 +1,5 @@
-prom_lila_tutorial_instructions.txt
 FirstScene.txt
+prom_lila_tutorial_instructions.txt
 FirstScene_two.txt
 MazeWithKeys.txt
 prom_lila_tutorial_afterProm.txt
