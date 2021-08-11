@@ -136,7 +136,7 @@ function flag_parser(_flag, _branches, _branchAddress, _index) {
 				global.currentFace = _faceID;
 			}
 			show_debug_message("Body fetched was " + sprite_get_name(_bodyID));
-			create_charBody(oTextBox.x, oTextBox.y - 450, _bodyID, _faceID);
+			create_charBody(0, 0, _bodyID, _faceID);
 			
 	}
 	if(string_pos("BODY_DESTROY", _branches[_branchAddress][_iterator]) != 0)

@@ -1,25 +1,25 @@
 BACKGROUND_FLAG[player-bedroom]???: “Come on,GET UP, baka! You’re going to make me late for school!” [SHAKE]
 You wake up to a girl standing over you. 
-Startled, you blink sleep from your eyes, her face slowly coming into focus.  She looks angry.FACE_SPR_DreamLilaFaceNormalOld_FACEBODY_SPR_LilaFingertent_BODY
+Startled, you blink sleep from your eyes, her face slowly coming into focus.  She looks angry.
 ???: “Are you deaf, PenisChamp? I said GET UP!” [SHAKE]BARK_LilaGetUp_3rd_EDITED__BARK
 Very angry. You squint, trying to make out her features.
 ???: “PenisChamp, please. PLEASE don’t make us late again. It’s the fifth time this month!”
 She’s starting to sound desperate now.
 Wait a minute. You know that voice. It’s the voice of--
-PC: “Lila? What are you doing in my room?” 
+PC: “Lila? What are you doing in my room?” FACE_SPR_lila_angry_crossed_FACEBODY_SPR_lilacrossedbody_BODY
 Lila is one of my closest friends, but it’s still weird for her to be in here. Especially since... 
 Lila: “Your mom let me in, dummy. What’re you waiting for? GET UP!”
 PC: “But, Lila--I’m not wearing any...” 
 You feel your face heat up. 
-Lila: “Penischamp? Are you nak--Naked?!” 
+Lila: “Penischamp? Are you nak--Naked?!” FACE_SPR_lila_squint_crossed_FACEBODY_SPR_lilacrossedbody_BODY
 Her eyes go wide at the revelation.
 Lila: “You pervert!”BARK_LilaYouPervert_3rd_accusatory_EDITED__BARK
 PC: “What? How am I a pervert?”
 Lila: “Only perverts sleep naked, everyone knows that. I bet you wanted me to walk in on you, hentai baka.”
 PC: “Well...Well you’re the one who was watching me sleep!”
-Now it’s Lila’s turn to blush.
+Now it’s Lila’s turn to blush.FACE_SPR_lila_closed_crossed_FACEBODY_SPR_lilacrossedbody_BODY
 Lila: “Baka! It’s not like I wanted to see you sleeping. You weren’t getting up when I knocked. I had to come wake you, or-- Nevermind, just get dressed.  We’re gonna be late!”
-Lila walks out of your room, slamming the door behind her. You hastily put on clothes, brush your teeth, and grab your backpack before taking the stairs two at a time to meet Lila at the front door.
+Lila walks out of your room, slamming the door behind her. You hastily put on clothes, brush your teeth, and grab your backpack before taking the stairs two at a time to meet Lila at the front door.BODY_DESTROY
 BACKGROUND_FLAG[front-door]Lila: “Finally! What took you so long?”
 PC: “I was--”
 Lila: “That was rhetorical, dummy. Let’s go, or we’re gonna get detention!”
@@ -27,8 +27,7 @@ Lila: “That was rhetorical, dummy. Let’s go, or we’re gonna get detention!
 BACKGROUND_FLAG[cherry-trees]It’s a beautiful spring morning. The sun is shining, the birds are chirping, and there’s not a cloud in the sky. The sidewalk is more empty than usual, only a few late students who jog past you and Lila. 
 As much as Lila hates being late, she hates running even more, so you walk at a brisk, but reasonable, pace. You’re sleepy at first, but the morning air wakes you up after a minute.
 It’s a beautiful day, and, to top it all off, you notice that the cherry blossoms are starting to bloom.
-{Scene change to talking to Lila}
-PC: “The cherry blossoms are starting to bloom.”
+PC: “The cherry blossoms are starting to bloom.”FACE_SPR_BoringNormalFace_ArmsCrossed_FACEBODY_SPR_lilacrossedbody_BODY
 Lila: “Yeah, didn’t you notice last week?”
 PC: “No, I--I guess I didn’t.”
 Lila: “Baka. You’re so dense, you probably wouldn’t notice if something hit you in the head.”BARK_LilaBaka1_EDITED__BARK

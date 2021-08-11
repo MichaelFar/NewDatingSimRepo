@@ -74,26 +74,34 @@ function create_TB(_branches, _index, _branchAddress, _script, _flag) {
 				}
 			}
 			show_debug_message("textHistoryTracker is now: " + string(global.textHistoryTracker));
-			if(global.textHistoryTracker != 0)
+			if(global.shouldLog)
 			{
-				show_debug_message("Current dialogue is " + _textBuffer + " while current textHistory is " + global.textHistory[global.textHistoryTracker - 1])
-				if(global.textHistory[global.textHistoryTracker - 1] != _textBuffer)
+				if(global.textHistoryTracker != 0)
 				{
-					global.textHistory[global.textHistoryTracker] = text;
-					if(hasName)
+					show_debug_message("Current dialogue is " + _textBuffer + " while current textHistory is " + global.textHistory[global.textHistoryTracker - 1])
+					if(global.textHistory[global.textHistoryTracker - 1] != _textBuffer)
 					{
-						global.textHistory[global.textHistoryTracker] = name + ":" + text;
+						global.textHistory[global.textHistoryTracker] = text;
+						if(hasName)
+						{
+							global.textHistory[global.textHistoryTracker] = name + ":" + text;
+						}
+						global.textHistoryTracker++;
 					}
-					global.textHistoryTracker++;
 				}
+				else
+				{
+					if(global.textHistory[0] != _textBuffer)
+					{
+						global.textHistory[global.textHistoryTracker] = text;
+						global.textHistoryTracker++;
+					}
+				}
+				
 			}
 			else
 			{
-				if(global.textHistory[0] != _textBuffer)
-				{
-					global.textHistory[global.textHistoryTracker] = text;
-					global.textHistoryTracker++;
-				}
+				global.shouldLog = true;
 			}
 			show_debug_message("Current index at the end of create_TB " + string(index));
 		}
