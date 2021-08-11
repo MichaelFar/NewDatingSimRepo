@@ -11,13 +11,16 @@ if (keyboard_check_pressed(ord("M"))) {
 }
 */
 
-if (keyboard_check_pressed(vk_escape) && !instance_exists(oButton)) {
+if (keyboard_check_released(vk_escape) && !instance_exists(oButton)) 
+{
 	event_user(0);	
 }
-else if (keyboard_check_pressed(vk_escape)){
+/*else if (keyboard_check_pressed(vk_escape))
+{
+	
 	game_end();
 }
-
+*/
 if(!audio_is_playing(intro) && !audio_is_playing(part_that_loops))
 {
 	event_user(2);

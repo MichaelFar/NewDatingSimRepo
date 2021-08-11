@@ -19,11 +19,13 @@ global.saveGameBuffer = "";
 global.fullscreen = false;
 if(file_exists("Settings.txt"))
 {
-	script_execute(load_settings);
-	
+	show_debug_message("Loading settings")
+	load_settings();
+	load_volume();
 	audio_sound_gain(global.currentMusic, global.musicVolume / 100, 0);	
 	
 	window_set_fullscreen(global.fullscreen);
+	
 }
 for(var i = 0; i < 16; i++)
 {

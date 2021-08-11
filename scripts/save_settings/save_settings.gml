@@ -1,6 +1,7 @@
 function save_settings() {
 	if(file_exists("Settings.txt"))
 	{
+		show_debug_message("Deleting Settings File");
 		file_delete("Settings.txt");
 	}
 	
