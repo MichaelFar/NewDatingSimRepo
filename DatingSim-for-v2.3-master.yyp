@@ -2,6 +2,7 @@
   "resources": [
     {"id":{"name":"fnt_debug","path":"fonts/fnt_debug/fnt_debug.yy",},"order":0,},
     {"id":{"name":"fnt_dialogue","path":"fonts/fnt_dialogue/fnt_dialogue.yy",},"order":1,},
+    {"id":{"name":"Sprite41","path":"sprites/Sprite41/Sprite41.yy",},"order":0,},
     {"id":{"name":"fnt_main","path":"fonts/fnt_main/fnt_main.yy",},"order":1,},
     {"id":{"name":"fnt_namePlate","path":"fonts/fnt_namePlate/fnt_namePlate.yy",},"order":2,},
     {"id":{"name":"SPR_lila_closed_crossed","path":"sprites/SPR_lila_closed_crossed/SPR_lila_closed_crossed.yy",},"order":3,},
@@ -177,6 +178,7 @@
     {"folderPath":"folders/Sprites/Characters/Lila/armscrossed/face.yy","order":9,"resourceVersion":"1.0","name":"face","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Sprites/Characters/Lila/fingertent.yy","order":4,"resourceVersion":"1.0","name":"fingertent","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Sprites/Characters/Lila/fingertent/faces.yy","order":1,"resourceVersion":"1.0","name":"faces","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Sprites/bgs.yy","order":7,"resourceVersion":"1.0","name":"bgs","tags":[],"resourceType":"GMFolder",},
   ],
   "AudioGroups": [
     {"targets":-1,"resourceVersion":"1.3","name":"audiogroup_default","resourceType":"GMAudioGroup",},
@@ -236,7 +238,7 @@
     {"CopyToMask":-1,"filePath":"datafiles","resourceVersion":"1.0","name":"aerodynamics_wiki.txt","resourceType":"GMIncludedFile",},
   ],
   "MetaData": {
-    "IDEVersion": "2.3.3.574",
+    "IDEVersion": "2.3.2.558",
   },
   "resourceVersion": "1.4",
   "name": "DatingSim-for-v2.3-master",
