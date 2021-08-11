@@ -116,6 +116,7 @@
     {"id":{"name":"SPRQuitSprite","path":"sprites/SPRQuitSprite/SPRQuitSprite.yy",},"order":5,},
     {"id":{"name":"SPRtextInput","path":"sprites/SPRtextInput/SPRtextInput.yy",},"order":7,},
     {"id":{"name":"SPRtransBack","path":"sprites/SPRtransBack/SPRtransBack.yy",},"order":8,},
+    {"id":{"name":"Note3","path":"notes/Note3/Note3.yy",},"order":6,},
     {"id":{"name":"SPR_DreamLilaFaceNormalOld","path":"sprites/SPR_DreamLilaFaceNormalOld/SPR_DreamLilaFaceNormalOld.yy",},"order":1,},
     {"id":{"name":"SPR_lila_happy_crossed","path":"sprites/SPR_lila_happy_crossed/SPR_lila_happy_crossed.yy",},"order":4,},
     {"id":{"name":"SPR_GAGirl","path":"sprites/SPR_GAGirl/SPR_GAGirl.yy",},"order":0,},
