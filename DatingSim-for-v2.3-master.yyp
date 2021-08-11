@@ -2,7 +2,7 @@
   "resources": [
     {"id":{"name":"fnt_debug","path":"fonts/fnt_debug/fnt_debug.yy",},"order":0,},
     {"id":{"name":"fnt_dialogue","path":"fonts/fnt_dialogue/fnt_dialogue.yy",},"order":1,},
-    {"id":{"name":"Sprite41","path":"sprites/Sprite41/Sprite41.yy",},"order":0,},
+    {"id":{"name":"SPRsuburb","path":"sprites/SPRsuburb/SPRsuburb.yy",},"order":0,},
     {"id":{"name":"fnt_main","path":"fonts/fnt_main/fnt_main.yy",},"order":1,},
     {"id":{"name":"fnt_namePlate","path":"fonts/fnt_namePlate/fnt_namePlate.yy",},"order":2,},
     {"id":{"name":"SPR_lila_closed_crossed","path":"sprites/SPR_lila_closed_crossed/SPR_lila_closed_crossed.yy",},"order":3,},
