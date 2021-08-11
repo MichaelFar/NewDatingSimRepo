@@ -29,6 +29,9 @@ function load_volume() {
 		{
 			
 			global.fullscreen = real(_saveFileContents[i]);
+			
+			show_debug_message("Setting Full Screen")
+			
 		}
 	
 		show_debug_message("Loading setting " + string(_saveFileContents[i]));

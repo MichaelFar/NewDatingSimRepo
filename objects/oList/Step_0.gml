@@ -21,6 +21,7 @@ if(keyboard_check_pressed(vk_escape) || shouldEscape)
 	if(room == RMmainMenu)
 	{
 		event_perform_object(oMainMenuManager, ev_other, ev_user0);
+		shouldBreak = true;
 	}
 	else if(global.inPauseMenu || type == LIST_TYPE.CHOICE_MENU)
 	{
@@ -42,11 +43,12 @@ if(keyboard_check_pressed(vk_escape) || shouldEscape)
 		}
 		shouldBreak = true;
 	}
+	
 }
 
 if(array_length(global.currentSettings) < _size && type == LIST_TYPE.SETTINGS)
 {
-	
+	show_debug_message("Initializing currentSettings")
 	for (var i = 0; i < _size; i++)
 	{
 		var _arr = list[| i];
@@ -220,6 +222,7 @@ for (var i = 0; i < _size; i++)
 				
 				case "Return To Main Menu Without Saving":
 					room_goto(RMmainMenu);
+					//load_settings()
 				break;
 				
 				case "Exit Without Saving":
@@ -414,6 +417,7 @@ for (var i = 0; i < _size; i++)
 		if(_sel != -1)
 		{
 			global.currentSettings[i] = _sel;
+			
 		}
 		if (_sel > -1)
 		{

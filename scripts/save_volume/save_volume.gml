@@ -15,6 +15,7 @@ function save_volume() {
 	file_text_writeln(openFile);
 	
 	file_text_write_real(openFile, global.fullscreen);
+	show_debug_message("global.fullscreen on save is " + string(global.fullscreen));
 	file_text_writeln(openFile);
 	
 	file_text_write_real(openFile, global.textSpeed);

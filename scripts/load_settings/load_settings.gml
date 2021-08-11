@@ -17,9 +17,9 @@ function load_settings() {
 		global.currentSettings[i] = real(_saveFileContents[i]);
 		show_debug_message("Setting being stored is " + string(global.currentSettings[i]));
 	
-		show_debug_message("Loading setting " + string(_saveFileContents[i]));
+		show_debug_message("Loading setting:: " + string(_saveFileContents[i]));
 	}
-	script_execute(load_volume);
+	load_volume();
 
 
 }

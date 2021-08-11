@@ -11,7 +11,7 @@ Lila is one of my closest friends, but it’s still weird for her to be in here.
 Lila: “Your mom let me in, dummy. What’re you waiting for? GET UP!”
 PC: “But, Lila--I’m not wearing any...” 
 You feel your face heat up. 
-Lila: “Penischamp? Are you nak--Naked?!” FACE_SPR_lila_squint_crossed_FACEBODY_SPR_lilacrossedbody_BODY
+Lila: “Penischamp? Are you nak--Naked?!” BODY_SPR_lilacrossedbody_BODY
 Her eyes go wide at the revelation.
 Lila: “You pervert!”BARK_LilaYouPervert_3rd_accusatory_EDITED__BARK
 PC: “What? How am I a pervert?”

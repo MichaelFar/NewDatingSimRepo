@@ -62,7 +62,7 @@ for (i = 0; i < _size; i++)
 	{
 		if(i < array_length(global.currentSettings) && type == LIST_TYPE.SETTINGS)
 		{ 
-			show_debug_message("currentSettings is " + string(global.currentSettings[i]));
+			//show_debug_message("currentSettings is " + string(global.currentSettings[i]));
 			var _val = _vals[global.currentSettings[i]];
 			
 		}
