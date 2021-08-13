@@ -21,9 +21,9 @@ if(file_exists("Settings.txt"))
 {
 	show_debug_message("Loading settings")
 	load_settings();
-	load_volume();
+	//load_volume();
 	audio_sound_gain(global.currentMusic, global.musicVolume / 100, 0);	
-	
+	show_debug_message("After going to main menu global.fullscreen is " + string(global.fullscreen))
 	window_set_fullscreen(global.fullscreen);
 	
 }

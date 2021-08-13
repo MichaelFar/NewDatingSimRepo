@@ -5,3 +5,4 @@
 [front-door]
 [maze]
 [simple]
+[test]
