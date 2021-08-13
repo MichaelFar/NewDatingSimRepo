@@ -70,6 +70,7 @@
     {"id":{"name":"loadStorage","path":"scripts/loadStorage/loadStorage.yy",},"order":4,},
     {"id":{"name":"load_game","path":"scripts/load_game/load_game.yy",},"order":0,},
     {"id":{"name":"load_settings","path":"scripts/load_settings/load_settings.yy",},"order":2,},
+    {"id":{"name":"SPRbedroom","path":"sprites/SPRbedroom/SPRbedroom.yy",},"order":1,},
     {"id":{"name":"load_volume","path":"scripts/load_volume/load_volume.yy",},"order":3,},
     {"id":{"name":"NineSliceBox","path":"scripts/NineSliceBox/NineSliceBox.yy",},"order":1,},
     {"id":{"name":"notascript","path":"scripts/notascript/notascript.yy",},"order":2,},
