@@ -26,6 +26,7 @@ function flag_parser(_flag, _branches, _branchAddress, _index) {
 	var BarkID = "";
 	var _bodyID = -1;
 	var _faceID = -1;
+	var _BACKID = -1;
 	for (i = 0; i < array_length(global.flags); i++) 
 	{
 		if (string_pos("[", global.flags[i]) != 0)  //Checks for flag exclusivity clause
@@ -80,13 +81,22 @@ function flag_parser(_flag, _branches, _branchAddress, _index) {
 	global.newFlagIndex = _iterator;
 
 
-	if(string_pos("BACKGROUND_FLAG", _branches[_branchAddress][_iterator]) != 0)
+	if(string_pos("BACK_", _branches[_branchAddress][_iterator]) != 0)
 	{
-		getBackground(_branches[_branchAddress][_iterator]);
-		for(i = 0; i < array_length(global.backGrounds); i++)
+		_buffer = string_delete(_branches[_branchAddress][_iterator], string_pos("BACK_", _branches[_branchAddress][_iterator]), string_pos("_BACK", _branches[_branchAddress][_iterator]) - 1);
+		_EX = string_replace(_branches[_branchAddress][_iterator], _buffer, "");
+		_branches[_branchAddress][_iterator] = string_replace(_branches[_branchAddress][_iterator], _EX, "");
+		_EX = string_replace(_EX, "BACK_", "");
+		_EX = string_replace(_EX, "_BACK", "");
+		show_debug_message("BACK name is " + _EX);
+		_BACKID = asset_get_index(_EX);
+		_branches[_branchAddress][_iterator] = string_replace(_branches[_branchAddress][_iterator], "_BACK", "");//A little hacky might fix later tee hee
+		getBackground(_BACKID);
+		/*for(i = 0; i < array_length(global.backGrounds); i++)
 		{
 			_branches[_branchAddress][_iterator] = string_replace(_branches[_branchAddress][_iterator],"BACKGROUND_FLAG" + global.backGrounds[i], "");
 		}
+		*/
 	}
 	if(string_pos("[SHAKE]", _branches[_branchAddress][_iterator]) != 0)
 	{
@@ -147,6 +157,8 @@ function flag_parser(_flag, _branches, _branchAddress, _index) {
 		global.currentFace = -1;
 		_branches[_branchAddress][_iterator] = string_replace(_branches[_branchAddress][_iterator], "BODY_DESTROY", "");
 	}
+	
+	
 	
 	if(string_pos("“", _branches[_branchAddress][_iterator]) != 0)
 	{

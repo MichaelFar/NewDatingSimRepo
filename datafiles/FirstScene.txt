@@ -1,4 +1,4 @@
-BACKGROUND_FLAG[prom-tutorial]???: “Come on,GET UP, baka! You’re going to make me late for school!” [SHAKE]
+BACK_SPRbedroom_BACK???: “Come on,GET UP, baka! You’re going to make me late for school!” [SHAKE]
 You wake up to a girl standing over you. 
 Startled, you blink sleep from your eyes, her face slowly coming into focus.  She looks angry.
 ???: “Are you deaf, PenisChamp? I said GET UP!” [SHAKE]BARK_LilaGetUp_3rd_EDITED__BARK
