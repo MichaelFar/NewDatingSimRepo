@@ -36,4 +36,6 @@ global.textHistoryTracker = 0;
 global.canScrollUp = true;
 global.canScrollDown = true;
 global.shouldLog = true;
+
+
 event_user(0);

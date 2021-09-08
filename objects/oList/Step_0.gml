@@ -273,6 +273,7 @@ for (var i = 0; i < _size; i++)
 						var _currentList = create_list(room_width / 2 - (_totalWidth / 2), room_height / 2 - (_totalHeight / 2), _totalWidth, _totalHeight, LIST_TYPE.OVERRIDE_CONFIRM);
 						_currentList.saveName = metaString;
 						_currentList.saveIndex = i;
+						
 						/*
 						global.savedGames[i] = save_game(metaString);
 						_arr[@PR.NAME] = global.savedGames[i];
@@ -285,10 +286,20 @@ for (var i = 0; i < _size; i++)
 				case "(NO SAVE)":
 					if(type == LIST_TYPE.SAVE_MENU)
 					{
+						instance_destroy();
+						if(global.playerFlagCounter != 0)
+						{
+							global.currentTBID = create_TB(global.branches, global.newFlagIndex, global.currentBranch, on_click_TB, global.flags[global.playerFlagCounter - 1]);
+						}
+						else
+						{
+							global.currentTBID = create_TB(global.branches, global.newFlagIndex, global.currentBranch, on_click_TB, global.flags[global.playerFlagCounter]);
+						}
 						global.savedGames[i] = save_game(metaString);
 						_arr[@PR.NAME] = global.savedGames[i];
 						global.numSaves++;
 						script_execute(saveStorage);
+						fade_text(room_width / 2 - string_width("Game Saved!"), room_height / 2 - string_height("Game Saved!"), "Game Saved!")
 					}
 				
 				break;
@@ -357,6 +368,7 @@ for (var i = 0; i < _size; i++)
 						instance_destroy();
 						create_list(room_width / 2 - (_totalWidth / 2), room_height / 2 - (_totalHeight / 2), _totalWidth, _totalHeight, LIST_TYPE.GROUP_CHOICE);
 						shouldBreak = true;
+						
 					}
 					else if(type == LIST_TYPE.OVERRIDE_CONFIRM)
 					{
@@ -374,10 +386,11 @@ for (var i = 0; i < _size; i++)
 						global.numSaves++;
 						script_execute(saveStorage);
 						*/
-						
+						fade_text(room_width / 2 - string_width("Game Saved!"), room_height / 2 - string_height("Game Saved!"), "Game Saved!")
 					}
 					else if(type == LIST_TYPE.LOAD_CONFIRM)
 					{
+						
 						instance_destroy();
 						global.saveGameBuffer = saveName;
 						global.newGame = false;

@@ -19,6 +19,7 @@ else
 	if(file_exists("listOfSaves.txt"))
 	{
 		load_game(global.saveGameBuffer);
+		fade_text(room_width / 2 - string_width("Game Loaded!"), room_height / 2 - string_height("Game Loaded!"), "Game Loaded!")
 	}
 	else
 	{
